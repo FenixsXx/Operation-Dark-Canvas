@@ -22,19 +22,21 @@ consentire le connessioni sulla rete privata.
 - Accesso dei giocatori da browser, inclusi i browser su telefono.
 - Database e chiave di sessione salvati sul computer host, separati dai file
   dell'applicazione.
-- Build locali da terminale, senza usare GitHub.
+- Build locali da terminale, clonando direttamente la repository GitHub.
 
 ## Requisiti per creare la build
 
-I comandi qui sotto lavorano sui file del progetto già presenti sul computer:
-non clonano la repository, non scaricano sorgenti o artefatti da GitHub e non
-richiedono un account GitHub. Serve però Python 3.13 installato sul computer
-che esegue la build. Durante la prima build `pip` scarica le dipendenze da
-PyPI.
+I comandi clonano la repository pubblica GitHub direttamente nel terminale e
+poi eseguono la build sul tuo computer. Non serve scaricare manualmente file
+dal browser o aprire prima la cartella del progetto. Serve però Python 3.13
+installato sul computer che esegue la build. Durante la prima build `pip`
+scarica le dipendenze da PyPI.
 
 - Python **3.13**;
+- Git;
 - `pip`;
-- una connessione Internet per installare le dipendenze da PyPI;
+- una connessione Internet per clonare la repository e installare le dipendenze
+  da PyPI;
 - il sistema operativo e l'architettura per cui si vuole generare l'app.
 
 PyInstaller non crea in modo affidabile build per un altro sistema operativo:
@@ -42,20 +44,28 @@ genera il pacchetto sul sistema su cui viene eseguito. Per esempio, una build
 Windows va creata su Windows, una build macOS su macOS e una build Linux su
 Linux.
 
-Per eseguire una build già pronta non serve installare Python. Se Python 3.13
-non è già disponibile, va installato separatamente prima di eseguire i comandi
-di build.
+Per eseguire una build già pronta non serve installare Python. Per crearla,
+Python 3.13 deve invece essere installato sul computer che esegue i comandi.
 
 ## Build locale
 
-Apri il terminale nella cartella del progetto, quella che contiene
-`DarkCanvas.spec`, `launcher.py` e `requirements.txt`, e lancia i comandi
-corrispondenti al tuo sistema. La cartella `.venv` e `dist/` vengono creati
-localmente; non devi scaricare un artefatto di build da GitHub.
+Puoi partire da una qualsiasi cartella: apri un terminale, esegui il blocco
+relativo al tuo sistema operativo e Git clonerà il progetto da
+[GitHub](https://github.com/FenixsXx/Operation-Dark-Canvas/tree/main). Il
+blocco crea l'ambiente di build, installa le dipendenze e genera l'app senza
+che tu debba aprire prima la cartella del progetto o scaricare file dal sito
+GitHub.
+
+La prima volta serve una connessione Internet per clonare la repository e
+scaricare i pacchetti Python da PyPI. Per ricreare la build in futuro, entra
+nella cartella `Operation-Dark-Canvas` già clonata e ripeti i comandi di build
+senza le prime due righe (`git clone` e `cd`/`Set-Location`).
 
 ### Windows (PowerShell)
 
 ```powershell
+git clone https://github.com/FenixsXx/Operation-Dark-Canvas.git
+Set-Location Operation-Dark-Canvas
 py -3.13 -m venv .venv
 .\.venv\Scripts\python.exe -m pip install --upgrade pip
 .\.venv\Scripts\python.exe -m pip install -r requirements.txt pyinstaller
@@ -79,9 +89,9 @@ Distribuisci l'intera cartella `OperationMareggiata`, non soltanto il file
 
 ### macOS (Intel o Apple Silicon)
 
-Apri Terminale nella cartella del progetto:
-
 ```bash
+git clone https://github.com/FenixsXx/Operation-Dark-Canvas.git
+cd Operation-Dark-Canvas
 python3.13 -m venv .venv
 .venv/bin/python -m pip install --upgrade pip
 .venv/bin/python -m pip install -r requirements.txt pyinstaller
@@ -101,9 +111,9 @@ Apple Developer.
 
 ### Linux
 
-Su una distribuzione con Python 3.13 installato:
-
 ```bash
+git clone https://github.com/FenixsXx/Operation-Dark-Canvas.git
+cd Operation-Dark-Canvas
 python3.13 -m venv .venv
 .venv/bin/python -m pip install --upgrade pip
 .venv/bin/python -m pip install -r requirements.txt pyinstaller
