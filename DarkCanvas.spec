@@ -18,6 +18,7 @@ root_files = [
     "notify.mp3",
     "dossier_447_gn_player.html",
     "launcher.html",
+    "Icona DKM.png",
     "(NEW) Dossier operazione mareggiata.pdf",
     "(NEW) FBI Dossier Interrogatori Completi.txt",
     "(NEW) soluzione Caso 447GN Mareggiata.txt",
@@ -62,6 +63,7 @@ exe = EXE(
     strip=False,
     upx=False,
     console=False,
+    icon=str(root / "Icona DKM.ico") if sys.platform == "win32" else None,
 )
 coll = COLLECT(
     exe,
@@ -76,5 +78,6 @@ if sys.platform == "darwin":
     app = BUNDLE(
         coll,
         name="OperationMareggiata.app",
+        icon=str(root / "Icona DKM.icns"),
         bundle_identifier="com.operationmareggiata.desktop",
     )
