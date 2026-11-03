@@ -66,6 +66,7 @@ def create_desktop_shortcut() -> None:
                 f"$shortcut = $shell.CreateShortcut({_powershell_literal(str(shortcut))}); "
                 f"$shortcut.TargetPath = {_powershell_literal(str(executable))}; "
                 f"$shortcut.WorkingDirectory = {_powershell_literal(str(executable.parent))}; "
+                f"$shortcut.IconLocation = {_powershell_literal(str(executable) + ',0')}; "
                 "$shortcut.Description = 'Operation Mareggiata'; "
                 "$shortcut.Save()"
             )
@@ -88,6 +89,7 @@ def create_desktop_shortcut() -> None:
                 "Type=Application\n"
                 "Name=Operation Mareggiata\n"
                 f"Exec={_desktop_exec_argument(str(executable))}\n"
+                f"Icon={str(executable.parent / 'Icona DKM.png')}\n"
                 "Terminal=false\n"
                 "Categories=Game;\n",
                 encoding="utf-8",
