@@ -71,3 +71,10 @@ coll = COLLECT(
     upx=False,
     name="OperationMareggiata",
 )
+
+if sys.platform == "darwin":
+    app = BUNDLE(
+        coll,
+        name="OperationMareggiata.app",
+        bundle_identifier="com.operationmareggiata.desktop",
+    )
