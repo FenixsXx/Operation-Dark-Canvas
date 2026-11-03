@@ -108,16 +108,16 @@ python3.13 -m venv .venv
 .venv/bin/pyinstaller --noconfirm --clean DarkCanvas.spec
 ```
 
-La build sarà in `dist/OperationMareggiata/`. Per avviarla:
+La build macOS sarà `dist/OperationMareggiata.app`. Per avviarla:
 
 ```bash
-./dist/OperationMareggiata/OperationMareggiata
+open dist/OperationMareggiata.app
 ```
 
-Distribuisci l'intera cartella. La build locale non è firmata né notarizzata:
-macOS può mostrare un avviso di sicurezza al primo avvio. Per distribuire
-un'app macOS firmata e notarizzata occorre configurare la firma con un account
-Apple Developer.
+Puoi distribuirla come normale app `.app`. La build locale non è firmata né
+notarizzata: macOS può mostrare un avviso di sicurezza al primo avvio. Per
+distribuire un'app macOS firmata e notarizzata occorre configurare la firma con
+un account Apple Developer.
 
 ### Linux
 
