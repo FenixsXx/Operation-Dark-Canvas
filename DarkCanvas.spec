@@ -1,12 +1,14 @@
 # -*- mode: python ; coding: utf-8 -*-
 
 from pathlib import Path
+import sys
 
 
 root = Path(SPECPATH)
 root_files = [
     "index.html",
     "client-fixes.js",
+    "desktop-client.js",
     "manifest.json",
     "icon-192.svg",
     "icon-512.svg",
@@ -15,6 +17,7 @@ root_files = [
     "click.mp3",
     "notify.mp3",
     "dossier_447_gn_player.html",
+    "launcher.html",
     "(NEW) Dossier operazione mareggiata.pdf",
     "(NEW) FBI Dossier Interrogatori Completi.txt",
     "(NEW) soluzione Caso 447GN Mareggiata.txt",
@@ -28,13 +31,18 @@ datas.extend(
     for path in (root / "assets").rglob("*")
     if path.is_file()
 )
+hiddenimports = {
+    "darwin": ["webview.platforms.cocoa"],
+    "win32": ["webview.platforms.winforms"],
+    "linux": ["webview.platforms.gtk"],
+}.get(sys.platform, [])
 
 a = Analysis(
     [str(root / "launcher.py")],
     pathex=[str(root)],
     binaries=[],
     datas=datas,
-    hiddenimports=[],
+    hiddenimports=hiddenimports,
     hookspath=[],
     hooksconfig={},
     runtime_hooks=[],
@@ -53,7 +61,7 @@ exe = EXE(
     bootloader_ignore_signals=False,
     strip=False,
     upx=False,
-    console=True,
+    console=False,
 )
 coll = COLLECT(
     exe,
