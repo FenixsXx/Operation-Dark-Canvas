@@ -18,6 +18,8 @@ consentire le connessioni sulla rete privata.
 
 - L'app desktop permette di ospitare una partita oppure collegarsi a un
   Director esistente.
+- Al primo avvio della build, l'app crea automaticamente un collegamento sul
+  Desktop: `.app` su macOS, `.lnk` su Windows e `.desktop` su Linux.
 - Il Director ospita il server nella propria app; gli altri possono usare
   l'app desktop o collegarsi dal browser, anche da telefono.
 - L'app desktop è disponibile per Windows, macOS e Linux; su Android si usa il
@@ -56,6 +58,11 @@ Linux.
 
 Per eseguire una build già pronta non serve installare Python. Per crearla,
 Python deve essere installato sul computer che esegue i comandi.
+
+Al primo avvio, la build crea un collegamento sul Desktop che punta alla
+posizione in cui si trova l'app. Se esiste già un elemento chiamato
+`Operation Mareggiata`, non viene sovrascritto; su alcuni desktop Linux potrebbe
+essere necessario autorizzare il file `.desktop` prima di aprirlo.
 
 ## Build locale
 
