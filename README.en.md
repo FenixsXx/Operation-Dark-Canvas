@@ -17,6 +17,8 @@ private networks.
 ## Features
 
 - The desktop app can host a game or connect to an existing Director.
+- On the first launch, the built app automatically creates a desktop shortcut:
+  `.app` on macOS, `.lnk` on Windows, and `.desktop` on Linux.
 - The Director hosts the server in the app; others can use the desktop app or
   join from a browser, including on phones.
 - The desktop app is available for Windows, macOS, and Linux; Android players
@@ -53,6 +55,11 @@ package on Windows, the macOS package on macOS, and the Linux package on Linux.
 
 Python is not required to run a prebuilt app. To create a build, Python must be
 installed on the computer running the commands.
+
+On its first launch, the built app creates a desktop shortcut pointing to its
+current location. If an item named `Operation Mareggiata` already exists, it
+will not be overwritten; some Linux desktops may require you to trust the
+`.desktop` file before opening it.
 
 ## Build locally
 
