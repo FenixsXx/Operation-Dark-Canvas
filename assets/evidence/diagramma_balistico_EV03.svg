@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="ev03DiagramTitle ev03DiagramDescription">
+  <title id="ev03DiagramTitle">Schema tecnico della traiettoria balistica EV-03</title>
+  <desc id="ev03DiagramDescription">Ricostruzione tecnica della traiettoria del colpo nel caso 447-GN, con punto di ingresso alla tempia sinistra, uscita parietale destra e prosecuzione verso il pannello della parete nord.</desc>
+  <rect width="1600" height="900" fill="#f7f4ef"/>
+  <g fill="none" stroke="#263746" stroke-width="4">
+    <path d="M90 150H1510M90 750H1510M90 150V750M1510 150V750"/>
+    <path d="M120 690H1480M120 210H1480" stroke="#66727d" stroke-width="2" stroke-dasharray="12 12"/>
+    <path d="M800 170V730" stroke="#66727d" stroke-width="2" stroke-dasharray="10 14"/>
+  </g>
+  <g font-family="Courier New, Consolas, monospace" fill="#0c2340">
+    <text x="120" y="120" font-size="34" font-weight="700">ALLEGATO A · SCHEMA TRAIETTORIA</text>
+    <text x="120" y="190" font-size="26">VISTA LATERALE · RICOSTRUZIONE ORIENTATIVA · NON IN SCALA</text>
+    <text x="120" y="805" font-size="25">RIF. EV-03 · BAL-447-GN-031-A · BATES 447-GN-0003</text>
+  </g>
+  <g transform="translate(350 235)" fill="#eee9e0" stroke="#263746" stroke-width="5">
+    <path d="M285 45C205 45 145 105 145 185c0 48 18 82 47 111 24 24 36 53 39 91h108c3-38 15-67 39-91 29-29 47-63 47-111 0-80-60-140-140-140z"/>
+    <path d="M230 387h110v40H230zM242 427h86v28h-86z"/>
+    <path d="M185 210c31-22 67-22 98 0M365 210c-31-22-67-22-98 0" fill="none"/>
+    <circle cx="190" cy="242" r="10" fill="#741b1b"/>
+    <circle cx="390" cy="242" r="10" fill="#741b1b"/>
+    <path d="M285 130v120M250 300h70" fill="none" stroke="#66727d" stroke-width="3"/>
+  </g>
+  <g fill="none" stroke="#9f2c2c" stroke-width="8">
+    <path d="M155 477L540 477L1390 340"/>
+    <path d="M1360 322l44 18-31 31"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#741b1b" font-weight="700">
+    <text x="120" y="430" font-size="32">PUNTO DI INGRESSO</text>
+    <text x="120" y="468" font-size="30">TEMPIA SINISTRA</text>
+    <text x="430" y="535" font-size="28">USCITA PARIETALE DESTRA</text>
+    <text x="1230" y="300" font-size="30">IMPATTO</text>
+    <text x="1230" y="338" font-size="28">PANNELLO NORD</text>
+  </g>
+  <g font-family="Courier New, Consolas, monospace" fill="#0c2340" font-size="27">
+    <text x="1000" y="560">DIREZIONE GENERALE: SINISTRA → DESTRA</text>
+    <text x="1000" y="600">AZIMUT: 114° · INCLINAZIONE: -4°</text>
+    <text x="1000" y="640">DISTANZA: CONTATTO / RAVVICINATA</text>
+  </g>
+  <g fill="#0c2340" font-family="Courier New, Consolas, monospace" font-size="24">
+    <text x="108" y="235">ASSE DI RIFERIMENTO</text>
+    <text x="1360" y="735">PARETE NORD</text>
+  </g>
+</svg>
