@@ -16,11 +16,13 @@ private networks.
 
 ## Features
 
-- Flask game server bundled with the desktop app.
-- Automatic server startup and browser launch on the host computer.
-- The LAN address is displayed at startup so it can be shared with other
-  participants.
-- Players can join from a browser, including on phones.
+- The desktop app can host a game or connect to an existing Director.
+- The Director hosts the server in the app; others can use the desktop app or
+  join from a browser, including on phones.
+- The desktop app is available for Windows, macOS, and Linux; Android players
+  use a browser.
+- Tailwind CSS and Lucide icons are bundled locally, so the interface does not
+  depend on external CDNs.
 - The database and session key are stored on the host computer, separately
   from the application files.
 - Local terminal builds by cloning the GitHub repository.
@@ -29,23 +31,28 @@ private networks.
 
 The commands clone the public GitHub repository directly from the terminal and
 then build the app on your computer. You do not need to manually download files
-from the browser or open the project folder first. Python 3.13 must be
-installed on the computer that runs the build. On the first build, `pip`
-downloads dependencies from PyPI.
+from the browser or open the project folder first. Windows and macOS require
+Python 3.13; Ubuntu Linux uses its system Python (3.12 on Ubuntu 24.04) to
+integrate GTK. On the first build, `pip` downloads dependencies from PyPI.
 
-- Python **3.13**;
+- Python **3.13** on Windows/macOS, or the system Python on Linux;
 - Git;
 - `pip`;
 - an Internet connection to clone the repository and install dependencies
   from PyPI;
 - the operating system and architecture you want to build for.
 
+The desktop app also needs the system WebView components: WebView2 on Windows
+(normally installed with Edge), WKWebView on macOS (built into the system), and
+GTK 3 with WebKit2GTK on Linux. PyInstaller Linux builds do not include the
+system WebKit engine; install it on the Linux computer that runs the app.
+
 PyInstaller does not reliably cross-compile for a different operating system:
 build the package on the system it targets. For example, build the Windows
 package on Windows, the macOS package on macOS, and the Linux package on Linux.
 
-Python is not required to run a prebuilt app. To create a build, Python 3.13
-must be installed on the computer running the commands.
+Python is not required to run a prebuilt app. To create a build, Python must be
+installed on the computer running the commands.
 
 ## Build locally
 
@@ -110,10 +117,20 @@ Apple Developer account.
 
 ### Linux
 
+On Ubuntu/Debian, first install the WebView components and Python GTK bindings:
+
+```bash
+sudo apt-get update
+sudo apt-get install -y python3-venv python3-gi python3-gi-cairo gir1.2-gtk-3.0 gir1.2-webkit2-4.1
+```
+
+Then use the system Python so the virtual environment can access the
+distribution-provided PyGObject package:
+
 ```bash
 git clone https://github.com/FenixsXx/Operation-Dark-Canvas.git
 cd Operation-Dark-Canvas
-python3.13 -m venv .venv
+python3 -m venv --system-site-packages .venv
 .venv/bin/python -m pip install --upgrade pip
 .venv/bin/python -m pip install -r requirements.txt pyinstaller
 .venv/bin/pyinstaller --noconfirm --clean DarkCanvas.spec
@@ -125,9 +142,19 @@ The build will be in `dist/OperationMareggiata/`. To run it:
 ./dist/OperationMareggiata/OperationMareggiata
 ```
 
-Distribute the entire folder. Some Linux distributions may require system
-libraries compatible with those available on the computer that created the
-build.
+Distribute the entire folder. Every Linux computer that runs the app must have
+GTK 3 and WebKit2GTK installed.
+
+### Regenerate the CSS (optional)
+
+The compiled CSS is already included in the repository; Node.js is not needed
+to build the app. If you change Tailwind classes in the interface, regenerate
+the stylesheet from the project folder with:
+
+```bash
+npm ci
+npm run build:css
+```
 
 ## Optional: automated builds with GitHub Actions
 
@@ -157,28 +184,30 @@ with `v` is published (for example, `v1.0.0`). Artifacts are attached to the
 GitHub Actions run; the workflow does **not** automatically create a GitHub
 Release.
 
-## Start a game
+## Host or join a game
 
-1. Launch the app on the computer chosen by the Director. Keep the app window
-   open for the entire game.
-2. The Director's browser opens automatically. The app window also displays
-   the LAN address to share, in the format `http://address:5055`.
-3. Players on the same network open that address in a browser on their phone
-   or computer.
-4. If the firewall asks for permission, allow connections on private networks.
-   Do not configure router port forwarding or expose the port to the Internet.
+1. Launch the desktop app on the Director's computer and select **Avvia come
+   Director**. The game opens in an app window, not an external browser; the
+   LAN address to share is shown on the startup screen and in the Director
+   interface.
+2. Other players can open the same desktop app, select **Collegati a una
+   partita**, and enter that address. Alternatively, they can open it directly
+   in a browser on their phone or computer; they do not have to install the
+   app.
+3. All devices must be on the same network. If the firewall asks for
+   permission, allow connections on private networks. Do not configure router
+   port forwarding or expose the port to the Internet.
 
 The Director must keep the host computer powered on and connected: the server
 and game state reside there. If the app cannot start, for example because port
 `5055` is already in use, close the other program using that port and try
 again.
 
-### Browser Internet access
+### Interface assets
 
-The game and APIs run on the host computer, but the page loads Tailwind CSS and
-Lucide icons from external CDNs. Therefore, participants' browsers need
-Internet access to load these interface elements correctly. The game server
-itself is not hosted on those CDNs.
+Tailwind CSS and Lucide are served by the Director's computer, so Internet
+access is not needed to load styles or icons. Browsers must still be able to
+reach the host computer on the local network.
 
 ## Data and backups
 
@@ -200,10 +229,15 @@ repository.
 
 ```text
 main.py                         Flask server and APIs
-launcher.py                     Server, browser, and LAN address startup
+launcher.py                     Desktop app: host or join a game
+launcher.html                   Desktop app startup screen
+desktop-client.js               Displays the LAN address in the Director app
 DarkCanvas.spec                 PyInstaller configuration
 requirements.txt                Runtime dependencies
 .github/workflows/build.yml     Automated multi-platform builds
 index.html                      Web interface
 assets/                         Case images and resources
+assets/vendor/                  Tailwind CSS, Lucide, and their licenses
+tailwind.config.cjs              CSS source and configuration
+package.json                     Tailwind development dependency
 ```
