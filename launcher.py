@@ -6,6 +6,7 @@ import logging
 import os
 import secrets
 import socket
+import subprocess
 import sys
 import threading
 import time
@@ -15,11 +16,95 @@ from pathlib import Path
 from urllib.parse import urlsplit, urlunsplit
 
 import webview
-from platformdirs import user_data_dir
+from platformdirs import user_data_dir, user_desktop_dir
 from waitress import create_server
 
 BASE_DIR = Path(getattr(sys, "_MEIPASS", Path(__file__).resolve().parent))
 logger = logging.getLogger("dark_canvas_launcher")
+
+
+def _powershell_literal(value: str) -> str:
+    return "'" + value.replace("'", "''") + "'"
+
+
+def _desktop_exec_argument(value: str) -> str:
+    if "\n" in value or "\r" in value:
+        raise ValueError("Il percorso dell'app non può contenere righe nuove.")
+    escaped = value.replace("\\", "\\\\").replace('"', '\\"').replace("%", "%%")
+    return f'"{escaped}"'
+
+
+def create_desktop_shortcut() -> None:
+    if not getattr(sys, "frozen", False):
+        return
+
+    try:
+        desktop_dir = Path(user_desktop_dir())
+        desktop_dir.mkdir(parents=True, exist_ok=True)
+
+        executable = Path(sys.executable).resolve()
+        if sys.platform == "darwin":
+            app_bundle = executable.parents[2]
+            if app_bundle.suffix != ".app" or not app_bundle.is_dir():
+                raise RuntimeError(f"Bundle macOS non trovato: {app_bundle}")
+            shortcut = desktop_dir / "Operation Mareggiata.app"
+            if shortcut.exists() or shortcut.is_symlink():
+                if shortcut.is_symlink() and shortcut.resolve() == app_bundle:
+                    return
+                logger.warning("Collegamento non creato: esiste già %s", shortcut)
+                return
+            shortcut.symlink_to(app_bundle, target_is_directory=True)
+            return
+
+        if sys.platform == "win32":
+            shortcut = desktop_dir / "Operation Mareggiata.lnk"
+            if shortcut.exists() or shortcut.is_symlink():
+                logger.warning("Collegamento non creato: esiste già %s", shortcut)
+                return
+            script = (
+                "$shell = New-Object -ComObject WScript.Shell; "
+                f"$shortcut = $shell.CreateShortcut({_powershell_literal(str(shortcut))}); "
+                f"$shortcut.TargetPath = {_powershell_literal(str(executable))}; "
+                f"$shortcut.WorkingDirectory = {_powershell_literal(str(executable.parent))}; "
+                "$shortcut.Description = 'Operation Mareggiata'; "
+                "$shortcut.Save()"
+            )
+            subprocess.run(
+                ["powershell.exe", "-NoProfile", "-NonInteractive", "-Command", script],
+                check=True,
+                capture_output=True,
+                text=True,
+                timeout=15,
+            )
+            return
+
+        if sys.platform.startswith("linux"):
+            shortcut = desktop_dir / "Operation Mareggiata.desktop"
+            if shortcut.exists() or shortcut.is_symlink():
+                logger.warning("Collegamento non creato: esiste già %s", shortcut)
+                return
+            shortcut.write_text(
+                "[Desktop Entry]\n"
+                "Type=Application\n"
+                "Name=Operation Mareggiata\n"
+                f"Exec={_desktop_exec_argument(str(executable))}\n"
+                "Terminal=false\n"
+                "Categories=Game;\n",
+                encoding="utf-8",
+            )
+            shortcut.chmod(0o755)
+            return
+
+        logger.warning("Creazione collegamento Desktop non supportata su %s", sys.platform)
+    except subprocess.CalledProcessError as error:
+        detail = (error.stderr or "").strip()
+        logger.error(
+            "Creazione collegamento Desktop non riuscita: %s",
+            detail or error,
+            exc_info=True,
+        )
+    except (OSError, RuntimeError, subprocess.SubprocessError, ValueError):
+        logger.exception("Creazione collegamento Desktop non riuscita")
 
 
 def configure_data_directory() -> Path:
@@ -198,6 +283,7 @@ class DesktopApplication:
 
 def main() -> None:
     configure_data_directory()
+    create_desktop_shortcut()
     app = DesktopApplication()
     launcher_html = (BASE_DIR / "launcher.html").read_text(encoding="utf-8")
     app.window = webview.create_window(
