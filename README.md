@@ -16,10 +16,14 @@ consentire le connessioni sulla rete privata.
 
 ## Funzionalità
 
-- Server di partita Flask incluso nell'app desktop.
-- Avvio automatico del server e apertura dell'interfaccia sul computer host.
-- Indirizzo LAN mostrato all'avvio da condividere con gli altri partecipanti.
-- Accesso dei giocatori da browser, inclusi i browser su telefono.
+- L'app desktop permette di ospitare una partita oppure collegarsi a un
+  Director esistente.
+- Il Director ospita il server nella propria app; gli altri possono usare
+  l'app desktop o collegarsi dal browser, anche da telefono.
+- L'app desktop è disponibile per Windows, macOS e Linux; su Android si usa il
+  browser.
+- Tailwind CSS e le icone Lucide sono inclusi localmente; la UI non dipende da
+  CDN esterne.
 - Database e chiave di sessione salvati sul computer host, separati dai file
   dell'applicazione.
 - Build locali da terminale, clonando direttamente la repository GitHub.
@@ -28,16 +32,22 @@ consentire le connessioni sulla rete privata.
 
 I comandi clonano la repository pubblica GitHub direttamente nel terminale e
 poi eseguono la build sul tuo computer. Non serve scaricare manualmente file
-dal browser o aprire prima la cartella del progetto. Serve però Python 3.13
-installato sul computer che esegue la build. Durante la prima build `pip`
-scarica le dipendenze da PyPI.
+dal browser o aprire prima la cartella del progetto. Per Windows e macOS serve
+Python 3.13; su Ubuntu Linux si usa il Python di sistema (3.12 su Ubuntu 24.04)
+per integrare GTK. Durante la prima build `pip` scarica le dipendenze da PyPI.
 
-- Python **3.13**;
+- Python **3.13** su Windows/macOS, oppure il Python di sistema su Linux;
 - Git;
 - `pip`;
 - una connessione Internet per clonare la repository e installare le dipendenze
   da PyPI;
 - il sistema operativo e l'architettura per cui si vuole generare l'app.
+
+Per eseguire l'app desktop servono anche i componenti WebView del sistema:
+WebView2 su Windows (normalmente già presente insieme a Edge), WKWebView su
+macOS (integrato nel sistema) e GTK 3 con WebKit2GTK su Linux. Le build Linux
+create con PyInstaller non includono il WebKit di sistema; installalo sul
+computer Linux che esegue l'app.
 
 PyInstaller non crea in modo affidabile build per un altro sistema operativo:
 genera il pacchetto sul sistema su cui viene eseguito. Per esempio, una build
@@ -45,7 +55,7 @@ Windows va creata su Windows, una build macOS su macOS e una build Linux su
 Linux.
 
 Per eseguire una build già pronta non serve installare Python. Per crearla,
-Python 3.13 deve invece essere installato sul computer che esegue i comandi.
+Python deve essere installato sul computer che esegue i comandi.
 
 ## Build locale
 
@@ -111,10 +121,21 @@ Apple Developer.
 
 ### Linux
 
+Su Ubuntu/Debian installa prima i componenti WebView e il supporto Python per
+GTK:
+
+```bash
+sudo apt-get update
+sudo apt-get install -y python3-venv python3-gi python3-gi-cairo gir1.2-gtk-3.0 gir1.2-webkit2-4.1
+```
+
+Poi usa il Python di sistema così l'ambiente virtuale possa accedere a PyGObject
+fornito dalla distribuzione:
+
 ```bash
 git clone https://github.com/FenixsXx/Operation-Dark-Canvas.git
 cd Operation-Dark-Canvas
-python3.13 -m venv .venv
+python3 -m venv --system-site-packages .venv
 .venv/bin/python -m pip install --upgrade pip
 .venv/bin/python -m pip install -r requirements.txt pyinstaller
 .venv/bin/pyinstaller --noconfirm --clean DarkCanvas.spec
@@ -126,9 +147,19 @@ La build sarà in `dist/OperationMareggiata/`. Per avviarla:
 ./dist/OperationMareggiata/OperationMareggiata
 ```
 
-Distribuisci l'intera cartella. Su alcune distribuzioni Linux potrebbero essere
-necessarie librerie di sistema compatibili con quelle presenti sul computer che
-ha creato la build.
+Distribuisci l'intera cartella. Ogni computer Linux su cui si avvia l'app deve
+avere GTK 3 e WebKit2GTK installati.
+
+### Rigenerare il CSS (facoltativo)
+
+Il CSS compilato è già incluso nella repository; Node.js non serve per creare
+una build dell'app. Se modifichi le classi Tailwind nell'interfaccia, puoi
+rigenerarlo dalla cartella del progetto con:
+
+```bash
+npm ci
+npm run build:css
+```
 
 ## Opzionale: build automatiche con GitHub Actions
 
@@ -159,29 +190,30 @@ tag che inizia con `v` (per esempio `v1.0.0`). Gli artefatti sono allegati alla
 run GitHub Actions; il workflow **non** crea automaticamente una GitHub
 Release.
 
-## Avviare una partita
+## Avviare o raggiungere una partita
 
-1. Avvia il programma sul computer scelto dal Director. Lascia aperta la
-   finestra del programma per tutta la partita.
-2. Il browser del Director si apre automaticamente; la finestra mostra anche
-   l'indirizzo LAN da condividere, nel formato `http://indirizzo:5055`.
-3. I giocatori, collegati alla stessa rete, aprono quell'indirizzo nel browser
-   del telefono o del computer.
-4. Se il firewall chiede conferma, consenti le connessioni di rete privata.
-   Non configurare il port forwarding del router e non esporre la porta a
-   Internet.
+1. Avvia l'app desktop sul computer del Director e scegli **Avvia come
+   Director**. La partita si apre in una finestra dell'app, senza browser
+   esterno; l'indirizzo LAN da condividere è mostrato nella schermata iniziale
+   e nell'interfaccia del Director.
+2. Gli altri giocatori possono aprire la stessa app desktop, scegliere
+   **Collegati a una partita** e inserire l'indirizzo. In alternativa possono
+   visitarlo direttamente dal browser del telefono o del computer; non devono
+   installare l'app.
+3. Tutti i dispositivi devono essere sulla stessa rete. Se il firewall chiede
+   conferma, consenti le connessioni di rete privata. Non configurare il port
+   forwarding del router e non esporre la porta a Internet.
 
 Il Director deve mantenere acceso e connesso il computer host: il server e lo
 stato della partita risiedono lì. Se il programma non riesce a partire, per
 esempio perché la porta `5055` è già occupata, chiudi l'altro programma che la
 sta usando e riprova.
 
-### Connessione a Internet del browser
+### Risorse dell'interfaccia
 
-La partita e le API girano sul computer host, ma la pagina carica Tailwind CSS e
-le icone Lucide da CDN esterne. Di conseguenza i browser dei partecipanti
-devono poter raggiungere Internet per caricare correttamente questi elementi
-dell'interfaccia. Il server di gioco non viene ospitato su tali CDN.
+Tailwind CSS e Lucide sono serviti dal computer del Director, quindi non serve
+Internet per caricare gli stili o le icone. I browser devono comunque poter
+raggiungere il computer host sulla rete locale.
 
 ## Dati e backup
 
@@ -204,10 +236,15 @@ di sessione o dati personali.
 
 ```text
 main.py                         Server Flask e API
-launcher.py                     Avvio server, browser e indirizzo LAN
+launcher.py                     App desktop: ospita o si collega alla partita
+launcher.html                   Schermata iniziale dell'app desktop
+desktop-client.js               Mostra l'indirizzo LAN nell'app Director
 DarkCanvas.spec                 Configurazione PyInstaller
 requirements.txt                Dipendenze runtime
 .github/workflows/build.yml     Build automatiche multipiattaforma
 index.html                      Interfaccia web
 assets/                         Immagini e risorse del caso
+assets/vendor/                  Tailwind CSS, Lucide e relative licenze
+tailwind.config.cjs              Sorgenti e configurazione del CSS
+package.json                     Dipendenza di sviluppo per Tailwind
 ```
