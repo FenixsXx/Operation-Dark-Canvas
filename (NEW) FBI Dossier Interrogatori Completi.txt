@@ -1,0 +1,1803 @@
+================================================================================
+UFFICIO FEDERALE DI INVESTIGAZIONE
+DIVISIONE INVESTIGATIVA — REATI CONTRO LA PERSONA
+UNITÀ LIAISON INTERNAZIONALE, SEDE DI ROMA
+
+TRASCRIZIONE INTEGRALE INTERROGATORIO FD-302/03
+================================================================================
+
+CASO N.:          447-GN
+OPERAZIONE:       MAREGGIATA
+SOGGETTO:         Matteo Rinaldi
+NATO:             Genova, 18 maggio 1988
+RESIDENZA:        Via Cecchi 23, quartiere Marassi, Genova
+PROFESSIONE:      Ingegnere elettronico senior — Progetto Nettuno
+STATO CIVILE:     Celibe
+DATA:             5 ottobre 2026
+ORARIO INIZIO:    14:00
+ORARIO FINE:      16:15
+DURATA:           2 ore 15 minuti
+SALA:             Interrogatorio A7, Questura di Genova
+
+AGENTE CONDUTTORE:    Agente Speciale J. Carver, Distintivo 8847
+AGENTE OSSERVATORE:   Agente Speciale M. Vance, Distintivo 8851
+INTERPRETE:           Non necessario — lingua italiana madrelingua
+DIFENSORE:            Avv. Paolo De Santis, iscritto all'Albo di Genova
+REGISTRAZIONE:        Audio-video integrale su supporto digitale sigillato 447-INT-01
+
+--------------------------------------------------------------------------------
+PRELIMINARI
+--------------------------------------------------------------------------------
+
+14:00:07 — Agente Carver attiva il registratore. Dichiara la data, l'ora, il numero 
+di caso e l'identità dei presenti. Invita il soggetto Matteo Rinaldi a dichiarare 
+nome, cognome, data e luogo di nascita, residenza, professione e stato civile.
+
+RINALDI: (voce bassa, tono monocorde, contatto visivo con il piano della scrivania)
+"Matteo Rinaldi. Nato a Genova il 18 maggio 1988. Residente in via Cecchi 23. 
+Ingegnere elettronico senior presso il progetto Nettuno. Celibe."
+
+14:01:22 — Agente Carver informa il soggetto che l'interrogatorio è condotto 
+nell'ambito dell'indagine per omicidio del Prof. Nathaniel Cross, caso 447-GN. 
+Ricorda i diritti fondamentali: diritto di mantenere il silenzio, diritto di non 
+autoaccusarsi, diritto alla presenza del difensore. L'avvocato De Santis conferma 
+di avere già illustrato tali diritti al proprio assistito. Rinaldi annuisce.
+
+AGENTE VANCE — Nota operativa:
+Il soggetto presenta iperidrosi palmare visibile sulle mani posate sulle ginocchia. 
+Tremore fine delle dita indice e medio della mano destra. Respirazione di tipo 
+costo-addominale con frequenza elevata (~22 atti/minuto). Pupille dilatate in 
+ambiente illuminato artificialmente.
+
+--------------------------------------------------------------------------------
+FASE I — ALIBI E MOVIMENTI DELLA SERATA DEL 3 OTTOBRE 2026
+--------------------------------------------------------------------------------
+
+14:02:45 — Agente Carver pone la prima domanda formale.
+
+CARVER: "Signor Rinaldi, la prego di riferire con precisione cronologica le proprie 
+attività nella serata del 3 ottobre 2026, a partire dalle ore 20:00."
+
+RINALDI: "Quella sera... sono uscito di casa intorno alle 20:45. Ero stanco, 
+volevo fare un po' di movimento. Sono andato in palestra, al FitActive di 
+Sampierdarena, in via Paolo Reti 12. Ho preso la metropolitana dalla fermata 
+di Brin, sono arrivato lì verso le 21:00. Ho fatto un allenamento leggero, 
+poi sono uscito intorno alla mezzanotte e mezza. Sono rientrato a casa verso 
+l'una di notte, forse un po' dopo."
+
+CARVER: "Ha visto il professor Cross quella sera?"
+
+RINALDI: "No. Non l'ho visto. Non ho avuto alcun contatto con lui, né telefonico 
+né digitale."
+
+14:04:10 — Agente Carver attende quattro secondi di silenzio. Estrae da una 
+cartella gialla il reperto fotografico EV-06, il scontrino del parcheggio Marina 
+Park, e lo pone sul tavolo tra sé e il soggetto.
+
+CARVER: "Signor Rinaldi, mi spiega perché il suo veicolo, una Volkswagen Golf 
+targata GE-AB-447, risulta parcheggiata nel piazzale del Marina Park alle ore 
+22:15 del 3 ottobre 2026, a centottanta metri in linea d'aria da Palazzo Doria, 
+quando lei sostiene di essere stato in palestra e di aver utilizzato i mezzi pubblici?"
+
+(Annotazione VANCE: Rinaldi fissa il scontrino. Le sue pupille si dilatano 
+ulteriormente. Dopo sette secondi di pausa.)
+
+RINALDI: "Potrebbe esserci un errore. Forse ho parcheggiato l'auto quella mattina 
+e ho dimenticato di spostarla. Capita, no? Con il lavoro, le scadenze..."
+
+CARVER: "Il scontrino indica un pagamento effettuato alle ore 22:15:07 con monete, 
+per una durata di quattro ore. È sua abitudine pagare il parcheggio la mattina 
+per la sera?"
+
+RINALDI: (silenzio)
+
+AVV. DE SANTIS: "Il mio assistito risponderà solo se ne ha certezza assoluta."
+
+RINALDI: "Non ricordo. Non ricordo bene quella sera."
+
+14:06:33 — Agente Carver estrae la stampa del video di sorveglianza interna 
+della palestra FitActive, girato dalle ore 21:00 alle ore 00:30 del 3 ottobre 2026. 
+Mostra al soggetto un fotogramma timecode 21:01:16 in cui un individuo entra 
+nel tornello utilizzando il badge magnetico intestato a Matteo Rinaldi.
+
+CARVER: "Conferma che l'individuo nella fotografia sia lei?"
+
+RINALDI: (guarda la stampa) "Sì. Sono io."
+
+CARVER: (mostra secondo fotogramma, timecode 21:17:46) "Osservi attentamente 
+la guancia sinistra dell'individuo. Il sistema di illuminazione a infrarossi 
+ha catturato un dettaglio. Le ricordo che lei non presenta alcun neo pigmentato 
+sulla guancia sinistra, né nei documenti d'identità né nell'ispezione visiva 
+attuale. L'individuo nel video presenta invece un neo di circa tre millimetri 
+di diametro sullo zigomo sinistro. Mi spieghi questa differenza."
+
+(Annotazione VANCE: Rinaldi impallidisce visibilmente. Il tremore delle mani 
+si estende ai polsi. Rivolge lo sguardo all'avvocato.)
+
+AVV. DE SANTIS: "La qualità del video potrebbe non consentire un'identificazione 
+certa."
+
+CARVER: "Il personale della palestra ha già riconosciuto l'individuo nel video 
+come Luca Greco, dipendente del progetto Nettuno, prestanome noto del signor 
+Rinaldi. Il signor Greco ha dichiarato di aver ricevuto il badge da Rinaldi 
+la sera del 3 ottobre dietro compenso di cinquanta euro, versati in contanti."
+
+(Annotazione VANCE: Rinaldi non nega. Resta in silenzio per undici secondi 
+esatti.)
+
+RINALDI: (sussurrando) "Luca gli doveva un favore."
+
+14:11:20 — Agente Vance interviene per la prima volta.
+
+VANCE: "Signor Rinaldi, è sua abitudine pagare cinquanta euro a un collega 
+per andare in palestra al posto suo, mentre il suo veicolo è parcheggiato 
+a centottanta metri dalla casa della vittima e il suo DNA si trova sul fondo 
+di un bicchiere in cristallo nella Sala Blu?"
+
+(Annotazione VANCE: Rinaldi sussulta al riferimento al DNA.)
+
+--------------------------------------------------------------------------------
+FASE II — CONFRONTO CON LE PROVE MATERIALI
+--------------------------------------------------------------------------------
+
+14:13:02 — Agente Carver estrae il referto preliminare del reperto EV-01, 
+l'analisi del bicchiere, e legge ad alta voce la parte relativa al profilo 
+del DNA salivare.
+
+CARVER: "...DNA salivare rilevato sul bordo interno del bicchiere, risultato 
+compatibile al 99,98% con il profilo genetico di Matteo Rinaldi, in quantità 
+consistente con un sorso effettuato meno di quattro ore prima del sopralluogo. 
+Come spiega la presenza del suo DNA su un bicchiere che lei sostiene di non 
+avere toccato quella sera?"
+
+RINALDI: "Bevevo spesso whisky con Cross. Il bicchiere poteva essere stato 
+usato nei giorni precedenti. Non lo so."
+
+CARVER: "L'analisi quantitativa del DNA indica un deposito recente, non 
+superiore alle quattro ore. Il bicchiere era stato lavato il 3 ottobre alle 
+ore 12:00 dal personale di servizio di Palazzo Doria, come attestato dal 
+verbale del portiere."
+
+(Annotazione VANCE: Rinaldi non risponde. Il suo sguardo si sposta verso 
+l'angolo in alto a sinistra della stanza, indicatore neurocomportamentale 
+di attivazione della costruzione narrativa.)
+
+14:17:55 — Agente Carver cambia angolo di attacco. Estrae la busta contenente 
+il reperto EV-04, la fibra di lana nera, e la pone accanto alla stampa 
+fotografica del profilo Instagram del soggetto Rinaldi, datata 2 ottobre 2026.
+
+CARVER: "Mi neghi di possedere un cappotto nero in lana loden, marca Schneiders, 
+taglia cinquantadue?"
+
+RINALDI: (guarda la fotografia. Le sue labbra si chiudono in una linea sottile. 
+Dopo undici secondi esatti di silenzio) "Non ricordo. Non ricordo di averlo."
+
+CARVER: (legge il referto dell'analisi microscopica) "La fibra rinvenuta 
+incastrata nella griglia del condotto di ventilazione della Sala Blu presenta 
+identica struttura, identico diametro, identica tintura in massa e identico 
+tratamento antipioggia al potassio-alluminio del cappotto sequestrato nel suo 
+armadio questa mattina. Mi spieghi come una fibra del suo cappotto si sia 
+incastrata in un condotto di ventilazione che dà accesso alla stanza blindata 
+dove è stato trovato il cadavere di suo padre."
+
+RINALDI: (sussulta alla parola "padre") "Cross non era mio padre."
+
+CARVER: (attende in silenzio)
+
+14:21:10 — Agente Carver estrae il referto del reperto EV-05, l'impronta sul 
+terrazzo bagnato, e la fotografia delle scarpe Timberland sequestrate.
+
+CARVER: "Pattern esagonale, taglia quarantaquattro, profilo di pressione 
+compatibile con ottanta-ottantacinque chilogrammi. Corrispondenza perfetta 
+con la deformazione della suola del tacco destro. È sua abitudine passeggiare 
+sul terrazzo bagnato della Sala Blu durante la finestra del delitto, che non è 
+possibile datare al minuto?"
+
+RINALDI: (nega con un singolo cenno laterale del capo) "No."
+
+(Annotazione VANCE: La negazione è accompagnata da un singolo cenno, non da 
+oscillazione multipla, tipica di una risposta veridica.)
+
+14:24:00 — Agente Carver introduce il reperto EV-02, il tablet.
+
+CARVER: (legge ad alta voce) "Lasciate ogne speranza voi ch'intrate." 
+Poi legge la biografia del suo profilo Instagram: "Lasciate ogne speranza." 
+Ritiene sia una coincidenza che la citazione dantesca, presente nella sua 
+biografia social, compaia in una nota sul tablet della vittima con timestamp 
+23:47 del 3 ottobre, successivo alla finestra medico-legale stimata tra le 
+22:45 e le 23:15? Il timestamp, da solo, non identifica chi abbia scritto il testo."
+
+RINALDI: "È una citazione comune. La conoscono tutti."
+
+CARVER: "Nel corpus di dodicimila email analizzate di Nathaniel Cross, quella 
+citazione compare in tre messaggi, tutti relativi a comunicazioni formali con 
+istituzioni italiane. Nel corpus di quattrocento email di Matteo Rinaldi, la 
+stessa citazione compare in diciotto messaggi, inclusa la firma automatica 
+di due anni fa."
+
+RINALDI: (silenzio)
+
+CARVER: "Aggiungo un dettaglio. La lettera è stata scritta utilizzando il layout 
+tastiera IT-IT. Nathaniel Cross usava esclusivamente il layout EN-US. Quale 
+layout tastiera utilizza abitualmente sul proprio smartphone e sul proprio computer?"
+
+RINALDI: (senza riflettere) "Quello italiano."
+
+(Annotazione VANCE: Rinaldi ha risposto senza filtro cognitivo, confermando 
+l'inconsapevolezza della trappola.)
+
+14:29:00 — Agente Vance pone una domanda a bruciapelo.
+
+VANCE: "È mancino, signor Rinaldi?"
+
+RINALDI: (pausa di due secondi) "Sì. Sono mancino."
+
+VANCE: (legge il referto balistico) "Il referto descrive ingresso alla tempia
+sinistra e uscita parietale destra, con residui da sparo assenti sulle mani
+della vittima. Lo schema allegato è orientativo e non consente, da solo, di
+stabilire la mano, la postura o l'identità di chi ha sparato. Lei ha dichiarato
+di essere mancino; è un dato da verificare insieme agli altri reperti, non una
+conclusione balistica. Trova significativo che arma, scena e alibi presentino
+altre incongruenze?"
+
+RINALDI: (stringe le labbra. Il tremore delle mani si è esteso alle braccia.)
+
+--------------------------------------------------------------------------------
+FASE III — IL MOVENTE: LA PATERNITÀ NEGATA
+--------------------------------------------------------------------------------
+
+14:32:10 — Agente Carver estrae l'ultimo reperto materiale. Non si tratta di 
+una prova della scena, ma del kit EasyDNA trovato nel cestino del suo ufficio.
+
+CARVER: (legge ad alta voce i nomi scritti sulla confezione) "Rinaldi e Cross." 
+Quando ha scoperto di essere figlio di Nathaniel Cross?"
+
+RINALDI: "Un mese fa. Ho trovato una lettera di mia madre. Era morta da poco. 
+Mi ha lasciato tutto in ordine, lei. Anche la verità, alla fine."
+
+CARVER: "Perché ha comprato il kit se non era interessato a sapere la verità?"
+
+RINALDI: "Volevo essere certo. Volevo sapere se quello che lei mi aveva detto 
+era vero."
+
+CARVER: "Ha mai avuto il coraggio di usarlo?"
+
+RINALDI: (scuote la testa. Le mani sono ora strette a pugno, nocche sbiancate.) 
+"No. Non ce l'ho fatta."
+
+14:35:00 — Agente Carver cambia registro. Abbassa il tono di voce.
+
+CARVER: "Non è più il momento delle menzogne, Matteo." 
+(Estrae dalla cartella una stampa dell'email EV-08, il testamento. La porge 
+a Rinaldi.) "Legga."
+
+(Annotazione VANCE: Rinaldi prende il foglio con entrambe le mani. Le dita 
+tremano visibilmente. Legge l'oggetto: "Disposizioni testamentarie e 
+riconoscimento di paternità naturale". Legge il corpo del messaggio, in cui 
+Nathaniel Cross chiede al notaio di predisporre l'atto di riconoscimento di 
+Matteo Rinaldi come figlio naturale, con attribuzione di quota ereditaria e 
+trasmissione dei diritti sul progetto Nettuno. La bozza è datata 
+2 ottobre 2026, ore 14:30, circa 32 ore prima della finestra medico-legale stimata.)
+
+14:38:22 — Rinaldi finisce di leggere. Posiziona il foglio sul tavolo. 
+Il suo sguardo è fisso sul testo. Il tremore si è arrestato. Il volto assume 
+una colorazione cerea. Non parla.
+
+(Annotazione VANCE: Il silenzio dura quattro minuti esatti, durante i quali 
+Rinaldi mantiene la respirazione a quota bassa, con episodi di apnea di circa 
+otto secondi.)
+
+14:42:18 — Rinaldi alza lo sguardo. Non guarda Carver. Guarda il foglio.
+
+RINALDI: (voce sussurrante, graffiante) "Non poteva dirmelo prima?"
+
+CARVER: "Mi ripeta."
+
+RINALDI: (identica intonazione, identico volume) "Non poteva dirmelo prima?" 
+(Pausa.) "Trentotto anni. Trentotto anni e non una parola. E ora voleva 
+comprarmi."
+
+CARVER: "Era nella Sala Blu la notte del 3 ottobre?"
+
+RINALDI: (non risponde direttamente) "Se l'avessi saputo prima, tutto sarebbe 
+ stato diverso. L'avrei ascoltato. Gli avrei dato una possibilità."
+
+AVV. DE SANTIS: "Il mio assistito non è tenuto a rispondere."
+
+RINALDI: (sembra non sentire l'avvocato) "Trentotto anni."
+
+--------------------------------------------------------------------------------
+FASE IV — DOMANDA FINALE E CONCLUSIONE
+--------------------------------------------------------------------------------
+
+14:45:00 — Agente Carver pone la domanda finale.
+
+CARVER: "Matteo Rinaldi. Ha ucciso Nathaniel Cross?"
+
+(Annotazione VANCE: Rinaldi non nega. Non conferma. Le spalle iniziano a 
+muoversi in modo ritmico.)
+
+RINALDI: "Ho ucciso l'uomo che credevo mi avesse buttato via."
+
+(Annotazione VANCE: Il soggetto presenta pianto silenzioso, senza emissione 
+sonora, con contrazione dei muscoli del trapezio e dello sternocleidomastoideo. 
+Le lacrime scendono lungo le guance senza che egli le asciughi.)
+
+AVV. DE SANTIS: "L'interrogatorio deve essere sospeso. Il mio assistito è in 
+stato di shock emotivo."
+
+CARVER: "Concordo." (Spegne il registratore alle ore 16:15.)
+
+--------------------------------------------------------------------------------
+POST-INTERROGATORIO
+--------------------------------------------------------------------------------
+
+16:15 — L'avvocato De Santis richiede e ottiene la sospensione dell'interrogatorio.
+Rinaldi viene condotto in cella di sicurezza. Durante il trasferimento, 
+ripete a bassa voce: "Non poteva dirmelo prima?"
+
+Annotazione conclusiva di Carver:
+La frase "Non poteva dirmelo prima?" costituisce ammissione implicita sia del 
+movente (paternità negata) sia della presenza in Sala Blu. Un soggetto innocente 
+avrebbe negato il rapporto di filiazione o contestato l'autenticità del documento. 
+Rinaldi, in quel secondo, ha compreso di aver ucciso l'unico uomo che stava per 
+riconoscerlo legalmente. Il movente si autoannulla nella scoperta, ma la 
+colpevolezza resta integra.
+
+================================================================================
+FINE TRASCRIZIONE FD-302/03
+================================================================================
+
+
+
+
+================================================================================
+UFFICIO FEDERALE DI INVESTIGAZIONE
+DIVISIONE INVESTIGATIVA — REATI CONTRO LA PERSONA
+UNITÀ LIAISON INTERNAZIONALE, SEDE DI ROMA
+
+TRASCRIZIONE INTEGRALE INTERROGATORIO FD-302/04
+================================================================================
+
+CASO N.:          447-GN
+OPERAZIONE:       MAREGGIATA
+SOGGETTO:         Priya Sharma
+NATO:             Chicago, Illinois, USA, 3 luglio 1990
+CITTADINANZA:     Statunitense (origine indiana)
+PROFESSIONE:      Analista FBI liaison — Progetto Nettuno
+RESIDENZA:        Camera 322, Grand Hotel Savoia, Via Arsenale di Terra 5, Genova
+DATA:             5 ottobre 2026
+ORARIO INIZIO:    16:30
+ORARIO FINE:      18:45
+DURATA:           2 ore 15 minuti
+SALA:             Interrogatorio B3, Questura di Genova
+
+AGENTE CONDUTTORE:    Agente Speciale J. Carver, Distintivo 8847
+AGENTE OSSERVATORE:   Agente Speciale M. Vance, Distintivo 8851
+INTERPRETE:           Non necessario — inglese madrelingua, competente in italiano
+DIFENSORE:            NESSUNO — rinuncia formale scritta alle ore 16:25
+REGISTRAZIONE:        Audio-video integrale su supporto digitale sigillato 447-INT-02
+
+--------------------------------------------------------------------------------
+PRELIMINARI
+--------------------------------------------------------------------------------
+
+16:30:15 — Agente Carver attiva il registratore. Dichiara formalmente che il 
+presente interrogatorio è condotto nell'ambito del caso 447-GN, operazione 
+Mareggiata. Il soggetto Priya Sharma ha rinunciato all'assistenza legale di 
+propria iniziativa.
+
+CARVER: "Conferma di aver rinunciato all'avvocato?"
+
+SHARMA: (tono neutro, accento midwestern) "Confermo. Ho rinunciato all'avvocato 
+e sono pronta a cooperare pienamente con l'indagine. Non ho nulla da nascondere."
+
+(Annotazione VANCE: Postura eretta, mani incrociate sul tavolo, contatto visivo 
+diretto e frequente. Battito ciglio stabile sui 10 atti al minuto, indicativo di 
+elevato controllo emotivo. Respirazione diaframmatica regolare.)
+
+--------------------------------------------------------------------------------
+FASE I — RUOLO E RAPPORTO CON LA VITTIMA
+--------------------------------------------------------------------------------
+
+16:32:00 — Domande di riscaldamento.
+
+CARVER: "Descriva il proprio ruolo nel progetto Nettuno e il rapporto professionale 
+con Nathaniel Cross."
+
+SHARMA: "Sono analista di sicurezza informatica e controspionaggio industriale. 
+Collaboro con il team di Cross dal mese di giugno 2026. Il rapporto era cordiale 
+ma strettamente professionale. Non ho mai avuto accesso alla Sala Blu, in quanto 
+la stanza è classificata NATO restricted e la mia clearance non copre tale livello."
+
+CARVER: "Come mai, nel rapporto preliminare che ha inviato al Supervisory Special 
+Agent in carica presso l'ambasciata americana a Roma alle ore 02:30 del 4 ottobre 
+2026, ha utilizzato il termine 'Sala Blu' per indicare la stanza in cui è stato 
+trovato il cadavere?"
+
+SHARMA: (senza esitazione) "L'ho sentito da Cross, durante una conversazione informale."
+
+CARVER: "Quando?"
+
+SHARMA: "Non ricordo la data esatta. Forse una settimana fa, forse due. 
+Non faccio caso a queste cose."
+
+16:37:40 — Agente Carver estrae una cartella nera contenente i quattordici 
+rapporti mensili che Nathaniel Cross ha inviato all'FBI dal mese di agosto 2025 
+al mese di settembre 2026. Li spalma sul tavolo uno per uno.
+
+CARVER: "Mi legga ad alta voce il termine utilizzato da Cross in ciascun rapporto 
+per indicare la stanza blindata."
+
+SHARMA: (legge) "Agosto 2025: 'lo Studio Tecnico B'. Settembre 2025: 'la stanza 
+blindata al terzo piano'. Ottobre 2025: 'l'unità sicura'. Novembre... 'lo spazio 
+sicuro di lavoro'. Dicembre... 'l'ufficio tecnico blindato'. Gennaio... 'la stanza 
+dei progetti'. Febbraio... 'lo studio cifrato'. Marzo... 'la camera blindata'. 
+Aprile... 'l'ambiente tecnico B'. Maggio... 'lo studio di coordinamento'. 
+Giugno... 'la stanza blindata'. Luglio... 'l'unità operativa sicura'. Agosto... 
+'lo spazio riservato'. Settembre... 'la stanza tecnica blindata'."
+
+CARVER: "In nessuno di questi quattordici rapporti compare il termine 'Sala Blu'. 
+Mi spieghi come Cross le abbia detto 'Sala Blu' se nei suoi rapporti ufficiali 
+ha sempre usato altre definizioni?"
+
+SHARMA: (non cambia espressione) "Forse l'ho sentito da Kyle Brennan."
+
+CARVER: "Brennan è stato interrogato separatamente alle ore 11:00 di questa 
+mattina. Ha negato categoricamente di avere mai usato il termine 'Sala Blu' 
+con lei o con chiunque altro. Lui stesso si riferiva alla stanza come 
+all'ufficio di Cross. Desidera modificare la propria risposta?"
+
+SHARMA: "Forse l'ho sentito da qualcun altro del team. Non ricordo."
+
+(Annotazione VANCE: Il tono di voce rimane neutro, ma la frequenza del battito 
+ciglio è salita a 16 al minuto. Il soggetto ha spostato il peso del corpo dal 
+gluteo sinistro al destro.)
+
+--------------------------------------------------------------------------------
+FASE II — IL BADGE CLONATO E L'ALTERAZIONE DEI LOG
+--------------------------------------------------------------------------------
+
+16:44:00 — Agente Carver cambia tattica. Estrae il referto dell'analisi forense 
+del sistema NVR di Palazzo Doria.
+
+CARVER: "Il log originale, recuperato dal backup cloud, registra un tentativo 
+di accesso alla porta blindata della Sala Blu tramite badge elettronico alle 
+ore 23:45 del 3 ottobre 2026. Il badge utilizzato non era quello di Rinaldi, 
+né quello di Brennan, né quello di Isabella Cross. Era un badge clonato, con 
+codice di identificazione non corrispondente a nessun dipendente autorizzato 
+del progetto Nettuno. Sa spiegare come un badge clonato sia stato utilizzato 
+alle 23:45?"
+
+SHARMA: "No. Non ne so nulla."
+
+CARVER: "Mi spieghi perché il log del sistema NVR è stato alterato alle ore 01:05 
+del 4 ottobre 2026, con cancellazione della traccia delle 23:45, e perché 
+l'indirizzo IP da cui è partita l'alterazione corrisponde al router WiFi della 
+camera 322 del Grand Hotel Savoia, dove lei alloggia?"
+
+(Annotazione VANCE: Sharma impallidisce. Il cambiamento è visibile anche sotto 
+il fondotinta. Le mani, prima incrociate, si separano e scendono sotto il piano 
+del tavolo, fuori dal campo visivo.)
+
+CARVER: (annota verbalmente per il registratore) "Il soggetto ha abbassato le 
+mani sotto il piano del tavolo. Le chiedo di riportarle in superficie."
+
+SHARMA: (obbedisce dopo tre secondi. Le dita sono leggermente tremanti.) 
+"Non so nulla di un badge clonato. La coincidenza dell'indirizzo IP è casuale. 
+L'hotel ha centinaia di ospiti."
+
+CARVER: "L'hotel ha confermato che la camera 322 era occupata esclusivamente da 
+lei e che il sistema WiFi assegna indirizzi IP statici per tutta la durata del 
+soggiorno, dal 28 settembre al 5 ottobre. L'indirizzo IP che ha alterato il log 
+NVR è il 192.168.1.47, assegnato al suo dispositivo personale."
+
+SHARMA: (silenzio)
+
+--------------------------------------------------------------------------------
+FASE III — IL MESSAGGIO CIFRATO E LA RETE DI RICATTO
+--------------------------------------------------------------------------------
+
+16:52:30 — Agente Vance interviene.
+
+VANCE: "Mi spieghi il messaggio cifrato inviato dal suo smartphone Google Pixel 
+alle ore 20:30 del 3 ottobre 2026, attraverso un'applicazione di messaggistica 
+effimera, a un numero di terminazione estera tracciato a un provider di servizi 
+VoIP con sede legale a Nicosia, Cipro, ma con infrastruttura server a San 
+Pietroburgo, Federazione Russa."
+
+(Annotazione VANCE: Sharma non risponde. Il suo sguardo si sposta verso la porta 
+della sala.)
+
+VANCE: "Il contenuto del messaggio, recuperato tramite dump forense del 
+dispositivo sequestrato questa mattina, recita in traduzione dall'inglese: 
+'recuperare il tablet prima delle 24. Elimina le foto.' Mi dica, signorina 
+Sharma: chi è il destinatario di quel messaggio?"
+
+SHARMA: (silenzio)
+
+CARVER: "Non è accusata di omicidio. L'analisi balistica, l'algor mortis e le 
+prove fisiche collocano l'omicidio tra le 22:30 e le 23:15, quando lei era 
+ancora nel suo hotel. Ma le chiedo di spiegare perché una sleeper agent del 
+SVR, infiltrata nell'FBI con credenziali false, stesse cercando di recuperare 
+il tablet di Cross alle 23:45 e perché avesse alterato i log di sicurezza 
+alle 01:05 per coprire la propria presenza."
+
+(Annotazione VANCE: Sharma rimane in silenzio per ventitré secondi. Carver 
+conta i secondi ad alta voce per il registratore.)
+
+16:56:45 — Sharma parla. La sua voce è diversa da prima.
+
+SHARMA: (cadenza monotona, perdita accento midwestern) "Il mio ordine non era 
+uccidere Cross. Cross era già morto quando sono arrivata. Il mio compito era 
+recuperare il materiale di ricatto. Le fotografie della moglie Cross con il 
+marine Brennan. Costituivano la leva per impedire a Cross di denunciare il 
+doppio gioco del progetto Nettuno al Senato americano. Il tablet era la chiave. 
+Senza quelle foto, la rete di ricatto crollava. Non ho ucciso nessuno."
+
+CARVER: "Chi le ha dato l'ordine?"
+
+SHARMA: "Non conosco il nome reale del handler. Le comunicazioni avvengono 
+tramite dead drop digitali. Il messaggio delle 20:30 era la prima direttiva 
+operativa ricevuta in tre mesi. Prima ero in standby."
+
+CARVER: "Perché ha rinunciato all'avvocato?"
+
+SHARMA: "Un avvocato avrebbe solo rallentato il processo. E io so già come 
+finirà."
+
+(Annotazione VANCE: Il soggetto presenta un crollo del tono muscolare facciale, 
+con rilassamento del frontale e del corrugatore, tipico di una resa psicologica 
+completa.)
+
+17:02:30 — Agente Carver sospende l'interrogatorio per consentire la redazione 
+della deposizione scritta. Il registratore viene spento. La deposizione viene 
+poi letta e sottoscritta da Sharma alle ore 17:45.
+
+--------------------------------------------------------------------------------
+POST-INTERROGATORIO
+--------------------------------------------------------------------------------
+
+Sharma è stata trasferita in custodia cautelare presso la Questura di Genova 
+in attesa di notifica all'Internal Affairs Division FBI e alla Counterintelligence 
+Division. Durante il trasferimento non ha proferito parola.
+
+Annotazione conclusiva di Carver:
+Sharma ha operato una netta distinzione tra il proprio ruolo (recupero materiale 
+di ricatto) e l'omicidio. La sua confessione operativa è coerente con la timeline: 
+alle 23:45 il sistema era già in blocco totale (attivato da Cross prima dell'arrivo 
+di Rinaldi), impedendole l'accesso. L'alterazione dei log alle 01:05 conferma il 
+tentativo di occultamento della propria presenza. La rinuncia all'avvocato e la 
+resa emotiva suggeriscono una formazione operativa SVR: accettazione della cattura 
+come evento previsto nel protocollo.
+
+================================================================================
+FINE TRASCRIZIONE FD-302/04
+================================================================================
+
+
+
+
+================================================================================
+UFFICIO FEDERALE DI INVESTIGAZIONE
+DIVISIONE INVESTIGATIVA — REATI CONTRO LA PERSONA
+UNITÀ LIAISON INTERNAZIONALE, SEDE DI ROMA
+
+TRASCRIZIONE INTEGRALE INTERROGATORIO
+================================================================================
+
+CASO N.:          447-GN
+OPERAZIONE:       MAREGGIATA
+SOGGETTO:         Isabella Cross
+NATO:             Milano, 14 febbraio 1985
+CITTADINANZA:     Italiana
+PROFESSIONE:      Psicoterapeuta
+RESIDENZA:        Palazzo Doria, Salita Santa Caterina 14, Genova — Piano terzo
+STATO CIVILE:     Vedova (coniuge Nathaniel Cross)
+DATA:             5 ottobre 2026
+ORARIO INIZIO:    10:00
+ORARIO FINE:      12:30
+DURATA:           2 ore 30 minuti
+SALA:             Interrogatorio C1, Questura di Genova
+
+AGENTE CONDUTTORE:    Agente Speciale J. Carver, Distintivo 8847
+AGENTE OSSERVATORE:   Agente Speciale M. Vance, Distintivo 8851
+DIFENSORE:            Avv. Silvia Montanari, iscritta all'Albo di Genova
+REGISTRAZIONE:        Audio-video integrale su supporto digitale sigillato 447-INT-03
+
+--------------------------------------------------------------------------------
+PRELIMINARI
+--------------------------------------------------------------------------------
+
+10:00:15 — Agente Carver attiva il registratore. Isabella Cross è seduta 
+diritta, abito nero, occhiali da vista appoggiati sul tavolo. Presenta 
+segni di insonnia: occhiaie marcate, tremore fine delle palpebre, 
+movimenti compulsivi di una ciocca di capelli dietro l'orecchio destro.
+
+CARVER: "Signora Cross, la informo che questo interrogatorio è condotto 
+nell'ambito dell'indagine per omicidio di suo marito, Nathaniel Cross. 
+Ha diritto alla presenza del difensore, diritto di mantenere il silenzio, 
+diritto di non autoaccusarsi."
+
+ISABELLA: (voce chiara, leggermente roca) "Ho capito. Sono qui per aiutare. 
+Voglio sapere chi ha ucciso Nathaniel."
+
+--------------------------------------------------------------------------------
+FASE I — LA SERATA AL TEATRO
+--------------------------------------------------------------------------------
+
+10:05:00 — Carver inizia con domande circostanziali.
+
+CARVER: "Mi racconti la serata del 3 ottobre, a partire dal pomeriggio."
+
+ISABELLA: "Sono uscita da Palazzo Doria intorno alle 20:15. Indossavo un 
+cappotto color cammello. Avevo il biglietto per il Teatro Carlo Felice, 
+posto palco D4. Il portiere mi ha salutata. Sono scesa con l'ascensore. 
+Il portiere può confermarlo."
+
+CARVER: "È arrivata in teatro in orario?"
+
+ISABELLA: "Sì, per le 20:45 ero già al mio posto. Lo spettacolo è iniziato 
+puntuale alle 21:00."
+
+CARVER: "Ha assistito all'intero spettacolo?"
+
+ISABELLA: "Sì. Tutto. È stato... bellissimo. Poi sono rientrata a casa. 
+Dopo la mezzanotte."
+
+10:18:30 — Carver estrae il registro dei posti occupati del Teatro Carlo Felice.
+
+CARVER: "Il registro dei posti occupati documenta che il posto palco D4 
+è risultato vuoto durante il controllo biglietti del secondo atto. 
+L'intervallo è iniziato alle 21:15. Dove era, signora Cross?"
+
+(Annotazione VANCE: Isabella sbianca. La mano destra si ferma a mezz'aria, 
+poi ricade sul tavolo.)
+
+ISABELLA: "Deve esserci un errore. Ero lì. Forse sono andata in bagno. 
+Sì, sono andata in bagno durante l'intervallo."
+
+CARVER: "Il bagno del palco è all'interno dello stesso settore. Il controllore 
+ha annotato il posto D4 non occupato durante un controllo del secondo atto. 
+Il registro non documenta la presenza continua della persona assegnataria."
+
+ISABELLA: "Non ricordo bene. Ero... confusa. La sera prima Nathaniel mi aveva 
+detto cose strane. Sul suo stato di salute. Ero preoccupata."
+
+10:25:00 — Carver estrae la testimonianza del barista del caffè adiacente 
+al teatro e quella del tassista.
+
+CARVER: "Il barista del caffè adiacente al teatro la ha riconosciuta. 
+Dichiara di averla vista salire su un taxi in direzione di Castelletto 
+alle ore 21:45. Il tassista, identificato, conferma di averla lasciata 
+all'ingresso di Salita Santa Caterina alle 21:52. Come spiega questa 
+discrepanza?"
+
+ISABELLA: (silenzio di quattordici secondi) "Non... non voglio che mio 
+marito venga giudicato. Non voglio che la gente sappia."
+
+CARVER: "Cosa non vuole che sappia la gente, signora Cross?"
+
+ISABELLA: (lacrime) "Che non stavamo bene. Che lui era malato e non me 
+l'aveva detto. Che avevo paura."
+
+--------------------------------------------------------------------------------
+FASE II — IL RIENTRO A PALAZZO DORIA
+--------------------------------------------------------------------------------
+
+10:40:00 — Carver cambia registro. Abbassa il tono di voce.
+
+CARVER: "Signora Cross. Lei è rientrata a Palazzo Doria alle 22:08. 
+Il suo smartphone ha agganciato la cella di copertura del palazzo. 
+È rimasta lì per diciotto minuti. Poi ha chiamato Kyle Brennan alle 
+22:12. Una chiamata di quarantacinque secondi. Perché?"
+
+ISABELLA: (singhiozzo sommesso) "Non sono entrata nella Sala Blu. Sono
+rientrata nell'area residenziale e ho chiamato Kyle. Non sapevo che il corpo
+fosse già stato scoperto."
+
+CARVER: "Perché non ha chiamato il 112?"
+
+ISABELLA: "Avevo paura. Pensavo che se avessi raccontato del rientro e della
+mia permanenza da Kyle, avrebbero scoperto la relazione e le foto."
+
+CARVER: "Quindi ha chiamato Kyle Brennan."
+
+ISABELLA: "Sì. Gli ho detto di venire. Di fare qualcosa. Poi sono uscita. 
+Sono andata da lui. In via del Campo."
+
+10:55:00 — Carver presenta il tabulato telefonico.
+
+CARVER: "Il suo dispositivo è rimasto agganciato alla cella di Via del 
+Campo, zona abitazione di Kyle Brennan, dalle 22:26 alle 23:58. 
+Poi si è spostata in Via San Luca fino all'01:00. Ha chiamato il 112 
+alle 01:05. Perché ha aspettato più di due ore e quarantacinque minuti?"
+
+ISABELLA: "Ero in shock. Kyle era ubriaco. Non riusciva a muoversi. Non
+sapevo cosa fare. Kyle ha scoperto materialmente il corpo alle 00:45 e ha
+chiamato i soccorsi alle 01:23."
+
+--------------------------------------------------------------------------------
+FASE III — LA RELAZIONE CON KYLE BRENNAN
+--------------------------------------------------------------------------------
+
+11:10:00 — Carver estrae le foto sequestrate nel cassetto del comodino 
+di Kyle Brennan.
+
+CARVER: "Le foto della sua relazione con il marine Brennan sono state 
+trovate nel cassetto del comodino di lui. Chi le ha scattate?"
+
+ISABELLA: "Non lo so. Qualcuno che ci spava. Da fuori, forse dal terrazzo. 
+Nathaniel me l'aveva detto. Che c'erano foto. Che qualcuno lo stava 
+ricattando."
+
+CARVER: "Sapeva che Priya Sharma era coinvolta?"
+
+ISABELLA: "No. Non sapevo nulla di lei. Pensavo fosse solo un'analista."
+
+CARVER: "Sapeva che suo marito aveva redatto una bozza di testamento 
+nel quale riconosceva Matteo Rinaldi come figlio naturale?"
+
+ISABELLA: (sorpresa genuina) "No. Non ne sapevo nulla. Nathaniel non 
+mi parlava mai del lavoro. E non mi parlava dei figli che non aveva 
+voluto avere con me."
+
+--------------------------------------------------------------------------------
+FASE IV — CONCLUSIONE
+--------------------------------------------------------------------------------
+
+11:45:00 — Carver conclude l'interrogatorio.
+
+CARVER: "Signora Cross, per completezza: ha ucciso suo marito?"
+
+ISABELLA: (sguardo fisso, lacrime che scorrono liberamente) "No. 
+Non l'ho ucciso. L'ho amato. Anche quando mi tradiva con la sua 
+malattia, con i suoi segreti. Non l'ho ucciso. Ma non l'ho salvato 
+nemmeno. E questo è peggio."
+
+12:30 — Interrogatorio concluso. Isabella Cross è affidata alla 
+custodia dell'avvocato Montanari in attesa di ulteriori accertamenti.
+
+--------------------------------------------------------------------------------
+POST-INTERROGATORIO
+--------------------------------------------------------------------------------
+
+Annotazione conclusiva di Carver:
+Isabella Cross non è indagata per omicidio. Il suo movente è esclusivamente
+occultativo: ha nascosto il rientro nell'area di Palazzo Doria e la successiva
+permanenza presso Kyle Brennan per proteggere la relazione extraconiugale e il
+materiale fotografico. Non risulta un accesso alla Sala Blu durante la finestra
+critica. Kyle Brennan ha scoperto materialmente il corpo alle 00:45 e ha
+chiamato il 112 alle 01:23. La sua reazione alla notizia del testamento
+(EV-08) appare genuina, confermando che ignorava l'esistenza di Matteo Rinaldi 
+come figlio naturale del marito.
+
+================================================================================
+FINE TRASCRIZIONE
+================================================================================
+
+
+
+
+================================================================================
+UFFICIO FEDERALE DI INVESTIGAZIONE
+DIVISIONE INVESTIGATIVA — REATI CONTRO LA PERSONA
+UNITÀ LIAISON INTERNAZIONALE, SEDE DI ROMA
+
+TRASCRIZIONE INTEGRALE INTERROGATORIO
+================================================================================
+
+CASO N.:          447-GN
+OPERAZIONE:       MAREGGIATA
+SOGGETTO:         Kyle Brennan
+NATO:             Boston, Massachusetts, USA, 22 agosto 1990
+CITTADINANZA:     Statunitense
+PROFESSIONE:      Marine, addetto alla sicurezza — Progetto Nettuno
+RESIDENZA:        Via del Campo 12, piano secondo, Genova
+STATO CIVILE:     Celibe
+DATA:             5 ottobre 2026
+ORARIO INIZIO:    11:00
+ORARIO FINE:      13:15
+DURATA:           2 ore 15 minuti
+SALA:             Interrogatorio D2, Questura di Genova
+
+AGENTE CONDUTTORE:    Agente Speciale M. Vance, Distintivo 8851
+AGENTE OSSERVATORE:   Agente Speciale J. Carver, Distintivo 8847
+DIFENSORE:            Avv. Marco Bellini (designato dal consolato USA)
+REGISTRAZIONE:        Audio-video integrale su supporto digitale sigillato 447-INT-04
+
+--------------------------------------------------------------------------------
+PRELIMINARI
+--------------------------------------------------------------------------------
+
+11:00:10 — Brennan è seduto a disagio sulla sedia, gambe divaricate, 
+mani sui ginocchi. Odore di alcol residuo emanante dal sudore. 
+Presenta tremori alle mani e iperidrosi frontale.
+
+VANCE: "Signor Brennan, la informo che questo interrogatorio è condotto 
+nell'ambito dell'indagine per omicidio del professor Nathaniel Cross. 
+Ha diritto alla presenza del difensore, diritto di mantenere il silenzio, 
+diritto di non autoaccusarsi."
+
+BRENNAN: (voce roca) "Ho capito. Voglio solo... voglio solo che finisca. 
+Non dormo da due notti."
+
+--------------------------------------------------------------------------------
+FASE I — LA SERATA DEL 3 OTTOBRE
+--------------------------------------------------------------------------------
+
+11:05:00 — Vance inizia con domande di riscaldamento.
+
+VANCE: "Dove si trovava la sera del 3 ottobre, a partire dalle ore 20:00?"
+
+BRENNAN: "Ero al bar. Il Bar Berto, in via San Bernardo. Bevevo da solo. 
+Ero... arrabbiato. Isabella mi aveva scritto che non ci saremmo visti. 
+Che era occupata."
+
+VANCE: "Lei e Isabella Cross avevate una relazione?"
+
+BRENNAN: (sospiro) "Sì. Da circa sei mesi. Nathaniel lo sapeva. 
+Non lo so se lo sapeva. Forse sospettava qualcosa. Non ne parlavamo."
+
+VANCE: "Ha ricevuto una chiamata da Isabella alle 22:12. Di quarantacinque 
+secondi. Cosa le ha detto?"
+
+BRENNAN: (tremore aumentato) "Era... era in stato di shock. Balbettava. 
+Ha detto 'Vieni. Subito. C'è sangue.' Poi ha riagganciato."
+
+VANCE: "È andato subito?"
+
+BRENNAN: "No. Ho finito il drink. Ero... ero ubriaco. Non capivo bene. 
+Poi ho preso un taxi. Sono arrivato a Palazzo Doria verso le 23:30. 
+Forse più tardi. Non ricordo bene."
+
+11:25:00 — Carver interviene.
+
+CARVER: "Il tabulato telefonico la colloca in Via del Campo dalle 22:30 
+alle 00:45. Perché è rimasto a casa per più di due ore dopo la chiamata?"
+
+BRENNAN: "Ero ubriaco, ho detto. Non riuscivo a muovermi. Poi ho cercato 
+di vestirmi. Ho vomitato. Non è stato... non è stato eroico."
+
+--------------------------------------------------------------------------------
+FASE II — LA SCOPERTA DEL CADAVERE
+--------------------------------------------------------------------------------
+
+11:40:00 — Vance cambia angolo.
+
+VANCE: "Quando è arrivato a Palazzo Doria, cosa ha trovato?"
+
+BRENNAN: "La porta della Sala Blu era aperta. Non chiusa a chiave. 
+Isabella non c'era. C'era Nathaniel. Sulla scrivania. Con la pistola 
+nella mano. Pensavo... pensavo si fosse suicidato. C'era un bicchiere. 
+Whisky. Il tablet acceso. Una lettera."
+
+VANCE: "Ha toccato qualcosa?"
+
+BRENNAN: "No. Sì. Ho preso il tablet. Volevo leggere. Poi l'ho lasciato 
+lì. Non volevo... non volevo lasciare impronte."
+
+VANCE: "Ha chiamato il 112?"
+
+BRENNAN: "No. Non subito. Ero... paralizzato. Poi è arrivata quella 
+donna. La Sharma. Ha detto che era un'analista. Ha iniziato a toccare 
+il tablet. Ha detto che doveva cancellare qualcosa."
+
+12:00:00 — Carver approfondisce.
+
+CARVER: "Cosa intendeva per 'cancellare qualcosa'?"
+
+BRENNAN: "Non lo so. Ha detto che c'erano file compromettenti. 
+Che doveva proteggere l'indagine. Poi mi sono accorto che stava 
+cancellando i log della telecamera. L'ho fermata. Le ho chiesto 
+cosa stava facendo. Ha detto che era appena arrivata. Che aveva 
+trovato la scena con me. Ma io l'avevo vista entrare. Non c'era 
+prima."
+
+--------------------------------------------------------------------------------
+FASE III — LA RELAZIONE E LE FOTO
+--------------------------------------------------------------------------------
+
+12:20:00 — Vance presenta le foto sequestrate.
+
+VANCE: "Queste foto sono state trovate nel suo cassetto. Chi le ha scattate?"
+
+BRENNAN: (impallidisce) "Non lo so. Me le ha mandate qualcuno. 
+Anonimo. Un messaggio. 'Smetti di vedere Isabella o queste escono.' 
+Non l'ho detto a nessuno. Nemmeno a lei."
+
+VANCE: "Quando ha ricevuto il messaggio?"
+
+BRENNAN: "Due settimane fa. Forse tre. Non ricordo la data esatta. 
+Ero spaventato. Pensavo fosse Nathaniel. Poi ho capito che era più 
+grande. Che c'era qualcun altro dietro."
+
+--------------------------------------------------------------------------------
+FASE IV — CONCLUSIONE
+--------------------------------------------------------------------------------
+
+12:50:00 — Vance conclude.
+
+VANCE: "Signor Brennan, per completezza: ha ucciso Nathaniel Cross?"
+
+BRENNAN: (sguardo fisso, mani che tremano) "No. Non l'ho ucciso. 
+Non avrei mai... anche se mi odiava, anche se sapeva di me e Isabella. 
+Non l'ho ucciso. Ma non l'ho salvato nemmeno. E se fossi arrivato 
+prima... forse..."
+
+13:15 — Interrogatorio concluso. Brennan è affidato alla custodia 
+dell'avvocato Bellini. Il consolato americano è stato informato.
+
+--------------------------------------------------------------------------------
+POST-INTERROGATORIO
+--------------------------------------------------------------------------------
+
+Annotazione conclusiva di Vance:
+Brennan non è indagato per omicidio. Il suo profilo comportamentale 
+è compatibile con un testimone in stato di shock e ritardo 
+psicomotorio per abuso di alcol. La sua deposizione su Priya Sharma 
+(ingresso alle 01:05, alterazione log, tentativo di sottrarre il 
+tablet) è coerente con le evidenze digitali. La sua relazione con 
+Isabella Cross è confermata e costituisce il movente occultativo 
+della stessa.
+
+================================================================================
+FINE TRASCRIZIONE
+================================================================================
+
+
+
+
+================================================================================
+UFFICIO FEDERALE DI INVESTIGAZIONE
+DIVISIONE INVESTIGATIVA — REATI CONTRO LA PERSONA
+UNITÀ LIAISON INTERNAZIONALE, SEDE DI ROMA
+
+TRASCRIZIONE INTEGRALE INTERROGATORIO
+================================================================================
+
+CASO N.:          447-GN
+OPERAZIONE:       MAREGGIATA
+SOGGETTO:         Viktor Kowalski
+NATO:             Gdansk, Polonia, 3 marzo 1982
+CITTADINANZA:     Polacca
+PROFESSIONE:      Ingegnere navale — Progetto Nettuno
+RESIDENZA:        Camera 7, B&B "La Casa sul Porto", Via San Giovanni di Pre 45, Genova
+STATO CIVILE:     Celibe
+DATA:             5 ottobre 2026
+ORARIO INIZIO:    15:00
+ORARIO FINE:      16:00
+DURATA:           1 ora
+SALA:             Interrogatorio E4, Questura di Genova
+
+AGENTE CONDUTTORE:    Agente Speciale M. Vance, Distintivo 8851
+AGENTE OSSERVATORE:   Commissario Luca Ferretti, Squadra Mobile Genova
+INTERPRETE:           Dott.ssa Anna Wojcik (Polacco-Italiano)
+DIFENSORE:            Avv. Tomasz Nowak (designato dal consolato polacco)
+REGISTRAZIONE:        Audio-video integrale su supporto digitale sigillato 447-INT-05
+
+--------------------------------------------------------------------------------
+PRELIMINARI
+--------------------------------------------------------------------------------
+
+15:00:20 — Kowalski è seduto in evidente stato di astinenza alcolica: 
+tremori alle mani, sudorazione profusa, occhi arrossati, alito che 
+emana odore di alcol metabolizzato. L'interprete Wojcik è presente 
+per garantire la piena comprensione, sebbene Kowalski dichiari di 
+comprendere l'italiano a livello conversazionale.
+
+VANCE: "Signor Kowalski, la informo che questo interrogatorio è condotto 
+nell'ambito dell'indagine per omicidio del professor Nathaniel Cross. 
+Ha diritto alla presenza del difensore, diritto di mantenere il silenzio, 
+diritto di non autoaccusarsi."
+
+KOWALSKI: (in italiano, accento marcato) "Capisco. Non ho bisogno 
+dell'interprete per le domande semplici. Ma lei resti, per favore."
+
+--------------------------------------------------------------------------------
+FASE I — LA SERATA DEL 3 OTTOBRE
+--------------------------------------------------------------------------------
+
+15:10:00 — Vance inizia.
+
+VANCE: "Dove si trovava la sera del 3 ottobre, dalle ore 18:00 in poi?"
+
+KOWALSKI: "Ero a La Spezia. Con Aldo Marchetti. E con Claudia Ferretti. 
+Avevamo una cena. Di lavoro. Di lavoro e... di altro."
+
+VANCE: "Di cosa parlavate?"
+
+KOWALSKI: "Del progetto. Delle fatture. Di come nascondere i soldi. 
+(ride amaramente) Non è un segreto, vero? Ormai lo sapete tutti. 
+Aldo mi ha chiesto di firmare dei documenti. Io ho firmato. Bevevo 
+whisky. Troppo whisky."
+
+VANCE: "Quando è tornato a Genova?"
+
+KOWALSKI: "Non ricordo. Forse a mezzanotte. Forse dopo. Ho preso 
+un taxi. O forse il treno. Non... non ricordo. Ero ubriaco."
+
+--------------------------------------------------------------------------------
+FASE II — IL RAPPORTO CON CROSS
+--------------------------------------------------------------------------------
+
+15:30:00 — Carver interviene.
+
+CARVER: "Qual era il suo rapporto con Nathaniel Cross?"
+
+KOWALSKI: "Professionale. Freddo. Lui non mi fidava. Pensava che 
+fossimo tutti corrotti. E aveva ragione. (ride) Aveva ragione. 
+Ma non sapeva quanto."
+
+CARVER: "Sapeva della malattia di Cross?"
+
+KOWALSKI: "Sapevo che era malato. Non sapevo quanto. Lui non 
+parlava. Lui non parlava mai di sé. Solo di lavoro. Solo di 
+Nettuno. Solo di quei cavi nel Mar Nero."
+
+--------------------------------------------------------------------------------
+FASE III — CONCLUSIONE
+--------------------------------------------------------------------------------
+
+15:50:00 — Vance conclude.
+
+VANCE: "Ha ucciso Nathaniel Cross?"
+
+KOWALSKI: (ride, poi diventa serio) "No. Non l'ho ucciso. Non 
+ho il coraggio. Non ho il coraggio di uccidere nessuno. Solo 
+quello di bere fino a dimenticare."
+
+16:00 — Interrogatorio concluso. Kowalski è affidato alla custodia 
+dell'avvocato Nowak. Il consolato polacco è stato informato.
+
+--------------------------------------------------------------------------------
+POST-INTERROGATORIO
+--------------------------------------------------------------------------------
+
+Annotazione conclusiva di Vance:
+Kowalski non è indagato per omicidio. Il suo alibi (cena a La Spezia 
+con Marchetti e Ferretti) è parzialmente corroborato dalle 
+testimonianze degli altri due soggetti. La sua deposizione è utile 
+per il filone investigativo relativo alla frode fiscale sul progetto 
+Nettuno, ma non ha rilevanza diretta sull'omicidio.
+
+================================================================================
+FINE TRASCRIZIONE
+================================================================================
+
+
+
+
+================================================================================
+UFFICIO FEDERALE DI INVESTIGAZIONE
+DIVISIONE INVESTIGATIVA — REATI CONTRO LA PERSONA
+UNITÀ LIAISON INTERNAZIONALE, SEDE DI ROMA
+
+TRASCRIZIONE INTEGRALE INTERROGATORIO
+================================================================================
+
+CASO N.:          447-GN
+OPERAZIONE:       MAREGGIATA
+SOGGETTO:         Aldo Marchetti
+NATO:             Genova, 12 aprile 1965
+CITTADINANZA:     Italiana
+PROFESSIONE:      Coordinatore operativo Marina — Progetto Nettuno
+RESIDENZA:        Via XX Settembre 45, piano quarto, Genova
+STATO CIVILE:     Sposato
+DATA:             5 ottobre 2026
+ORARIO INIZIO:    11:30
+ORARIO FINE:      14:00
+DURATA:           2 ore 30 minuti
+SALA:             Interrogatorio F5, Questura di Genova
+
+AGENTE CONDUTTORE:    Agente Speciale M. Vance, Distintivo 8851
+AGENTE OSSERVATORE:   Commissario Luca Ferretti, Squadra Mobile Genova
+DIFENSORE:            Avv. Roberto Gallo, iscritto all'Albo di Genova
+REGISTRAZIONE:        Audio-video integrale su supporto digitale sigillato 447-INT-06
+
+--------------------------------------------------------------------------------
+PRELIMINARI
+--------------------------------------------------------------------------------
+
+11:30:10 — Marchetti entra nella sala con passo deciso. Abito 
+cravatta, orologio d'oro al polso sinistro. Presenta atteggiamento 
+di superiorità iniziale, con incroci frequenti delle braccia e 
+contatto visivo sfuggente quando toccato da domande dirette.
+
+VANCE: "Signor Marchetti, la informo che questo interrogatorio è 
+condotto nell'ambito dell'indagine per omicidio del professor 
+Nathaniel Cross. Ha diritto alla presenza del difensore, diritto 
+di mantenere il silenzio, diritto di non autoaccusarsi."
+
+MARCHETTI: "Sono qui per collaborare. Ma devo protestare per 
+l'irruzione nel mio ufficio. I documenti classificati NATO non 
+possono essere sequestrati senza autorizzazione del Segretariato."
+
+VANCE: "Il mandato di perquisizione è stato emesso dal Tribunale 
+di Genova. Lei può opporsi verbalmente, che sarà annotato."
+
+MARCHETTI: (sospiro) "Proceda."
+
+--------------------------------------------------------------------------------
+FASE I — LA SERATA DEL 3 OTTOBRE
+--------------------------------------------------------------------------------
+
+11:45:00 — Vance inizia.
+
+VANCE: "Dove si trovava la sera del 3 ottobre?"
+
+MARCHETTI: "A La Spezia. Con Viktor Kowalski e Claudia Ferretti. 
+Avevamo una cena di lavoro. Siamo tornati a Genova verso le 23:30. 
+Ho guidato io."
+
+VANCE: "Cosa avete discusso?"
+
+MARCHETTI: "Di questioni operative del progetto. Di fatturazione. 
+Di consulenze. Nulla di rilevante per un omicidio."
+
+VANCE: "Il bonifico di 15.000 euro del 10 settembre a Claudia 
+Ferretti, con causale 'Consulenza legale progetto Nettuno fase due', 
+è compatibile con una fattura doppia emessa per lo stesso servizio 
+già pagato tramite fondi NATO. Sa spiegare?"
+
+MARCHETTI: (silenzio di nove secondi) "Non sono a conoscenza di 
+fatture doppie. Claudia è una professionista. Se c'è stato un 
+errore contabile, non è di mia competenza."
+
+--------------------------------------------------------------------------------
+FASE II — IL PROGETTO NETTUNO E LE INTERCETTAZIONI
+--------------------------------------------------------------------------------
+
+12:20:00 — Carver presenta i documenti classificati sequestrati.
+
+CARVER: "Nella sua cassaforte elettronica sono stati rinvenuti 
+documenti NATO restricted che descrivono in dettaglio l'installazione 
+di apparati di intercettazione sottomarina lungo i cavi di 
+comunicazione nel Mar Nero. Cross stava per denunciare questo 
+doppio gioco al Senato americano. Lei ne era a conoscenza?"
+
+MARCHETTI: "Cross era malato. Non ragionava lucidamente."
+
+CARVER: "Non ha risposto alla domanda."
+
+MARCHETTI: "Sapevo che Cross era insoddisfatto. Che voleva più 
+trasparenza. Ma la NATO non tollera le indiscrezioni."
+
+CARVER: "Lei o qualcuno del suo team avete preso provvedimenti 
+per impedire la denuncia?"
+
+MARCHETTI: (sbianca leggermente) "No. Non in quel modo. Non 
+siamo assassini. Siamo burocrati."
+
+--------------------------------------------------------------------------------
+FASE III — CONCLUSIONE
+--------------------------------------------------------------------------------
+
+13:45:00 — Vance conclude.
+
+VANCE: "Ha ucciso Nathaniel Cross?"
+
+MARCHETTI: "No. Non l'ho ucciso. Non ho motivo. Non ho coraggio. 
+E non ho la pistola."
+
+14:00 — Interrogatorio concluso. Marchetti è affidato alla 
+custodia dell'avvocato Gallo.
+
+--------------------------------------------------------------------------------
+POST-INTERROGATORIO
+--------------------------------------------------------------------------------
+
+Annotazione conclusiva di Vance:
+Marchetti non è indagato per omicidio. Le evidenze finanziarie 
+(fatture doppie, trasferimenti a paradisi fiscali) configurano 
+un'ipotesi di frode fiscale aggravata e peculato, oggetto di 
+separata indagine. La sua posizione nel progetto Nettuno è 
+comproprietaria del sistema di intercettazione sottomarina, ma 
+non esistono elementi che lo collegano direttamente all'omicidio.
+
+================================================================================
+FINE TRASCRIZIONE
+================================================================================
+
+
+
+
+================================================================================
+UFFICIO FEDERALE DI INVESTIGAZIONE
+DIVISIONE INVESTIGATIVA — REATI CONTRO LA PERSONA
+UNITÀ LIAISON INTERNAZIONALE, SEDE DI ROMA
+
+TRASCRIZIONE INTEGRALE INTERROGATORIO
+================================================================================
+
+CASO N.:          447-GN
+OPERAZIONE:       MAREGGIATA
+SOGGETTO:         Claudia Ferretti
+NATO:             Genova, 8 giugno 1970
+CITTADINANZA:     Italiana
+PROFESSIONE:      Avvocato / Consulente legale — Progetto Nettuno
+RESIDENZA:        Piazza De Ferrari 3, piano primo, Genova
+STATO CIVILE:     Divorziata
+DATA:             5 ottobre 2026
+ORARIO INIZIO:    14:30
+ORARIO FINE:      16:00
+DURATA:           1 ora 30 minuti
+SALA:             Interrogatorio G6, Questura di Genova
+
+AGENTE CONDUTTORE:    Agente Speciale J. Carver, Distintivo 8847
+AGENTE OSSERVATORE:   Commissario Luca Ferretti, Squadra Mobile Genova
+DIFENSORE:            Avv. Marco Bellini (sostituto, avvocato di studio assente)
+REGISTRAZIONE:        Audio-video integrale su supporto digitale sigillato 447-INT-07
+
+--------------------------------------------------------------------------------
+PRELIMINARI
+--------------------------------------------------------------------------------
+
+14:30:15 — Claudia Ferretti entra con passo sicuro. Abito 
+grigio perla, occhiali da sole appoggiati sulla testa. Presenta 
+un atteggiamento di sfida iniziale, con contatto visivo diretto 
+e frequente sorriso ironico.
+
+CARVER: "Signora Ferretti, la informo che questo interrogatorio è 
+condotto nell'ambito dell'indagine per omicidio del professor 
+Nathaniel Cross. Ha diritto alla presenza del difensore, diritto 
+di mantenere il silenzio, diritto di non autoaccusarsi."
+
+FERRETTI: "Sono qui per collaborare. Ma mi riservo di contestare 
+la legittimità della perquisizione nel mio studio. Stavo 
+partecipando a un'udienza."
+
+CARVER: "Annotato. Proceda."
+
+--------------------------------------------------------------------------------
+FASE I — LA SERATA DEL 3 OTTOBRE
+--------------------------------------------------------------------------------
+
+14:45:00 — Carver inizia.
+
+CARVER: "Dove si trovava la sera del 3 ottobre?"
+
+FERRETTI: "A La Spezia. Con Aldo Marchetti e Viktor Kowalski. 
+Cena di lavoro. Siamo tornati a Genova verso la mezzanotte. 
+Aldo ha guidato."
+
+CARVER: "Ha avuto contatti con Nathaniel Cross quella sera?"
+
+FERRETTI: "No. Non lo vedevo da settimane. Non era più 
+interessato ai miei consigli. Era troppo occupato a scoprire 
+la verità."
+
+CARVER: "Quale verità?"
+
+FERRETTI: (sorriso ironico) "Che siamo tutti corrotti, 
+signor Carver. Che il progetto Nettuno è una copertura. 
+Che i soldi spariscono. Che le fatture sono doppie. 
+Lui lo sapeva. E stava per dirlo a tutti."
+
+--------------------------------------------------------------------------------
+FASE II — LE FATTURE DOPPIE
+--------------------------------------------------------------------------------
+
+15:10:00 — Carver presenta i documenti sequestrati.
+
+CARVER: "Nel server del suo studio sono stati trovati file 
+relativi a contabilità doppia del progetto Nettuno, con 
+evidenza di fatturazioni duplicate e trasferimenti di fondi 
+verso società di comodo in paradisi fiscali. Sa spiegare?"
+
+FERRETTI: "Sono documenti riservati. Non posso commentare 
+senza autorizzazione del mio cliente."
+
+CARVER: "Il suo cliente è morto."
+
+FERRETTI: (sbianca leggermente) "Allora non ho più segreti 
+da proteggere, vero? (pausa) Sì, c'erano fatture doppie. 
+Sì, i soldi finivano in paradisi fiscali. Sì, io prendevo 
+la mia percentuale. Ma non ho ucciso nessuno. Non sono 
+un'assassina. Sono solo un'avvocato che sa come funziona 
+il mondo."
+
+--------------------------------------------------------------------------------
+FASE III — CONCLUSIONE
+--------------------------------------------------------------------------------
+
+15:45:00 — Carver conclude.
+
+CARVER: "Ha ucciso Nathaniel Cross?"
+
+FERRETTI: "No. Non l'ho ucciso. Non ne avevo motivo. 
+Morto, non potevo più fatturare."
+
+16:00 — Interrogatorio concluso. Ferretti è affidata alla 
+custodia dell'avvocato Bellini.
+
+--------------------------------------------------------------------------------
+POST-INTERROGATORIO
+--------------------------------------------------------------------------------
+
+Annotazione conclusiva di Carver:
+Ferretti non è indagata per omicidio. La sua deposizione è 
+utile per il filone investigativo relativo alla frode fiscale. 
+La sua ammissione spontanea del sistema di fatturazione doppia 
+configura un'ipotesi di autodenuncia parziale, probabilmente 
+finalizzata a ottenere benefici processuali in sede di patteggiamento.
+
+================================================================================
+FINE TRASCRIZIONE
+================================================================================
+
+
+
+
+================================================================================
+UFFICIO FEDERALE DI INVESTIGAZIONE
+DIVISIONE INVESTIGATIVA — REATI CONTRO LA PERSONA
+UNITÀ LIAISON INTERNAZIONALE, SEDE DI ROMA
+
+TRASCRIZIONE INTEGRALE INTERROGATORIO
+================================================================================
+
+CASO N.:          447-GN
+OPERAZIONE:       MAREGGIATA
+SOGGETTO:         Luca Greco
+NATO:             Genova, 4 gennaio 1992
+CITTADINANZA:     Italiana
+PROFESSIONE:      Tecnico elettronico — Progetto Nettuno
+RESIDENZA:        Via San Benedetto 4, Genova
+STATO CIVILE:     Celibe
+DATA:             5 ottobre 2026
+ORARIO INIZIO:    10:00
+ORARIO FINE:      11:00
+DURATA:           1 ora
+SALA:             Interrogatorio H7, Questura di Genova
+
+AGENTE CONDUTTORE:    Agente Speciale M. Vance, Distintivo 8851
+AGENTE OSSERVATORE:   Commissario Luca Ferretti, Squadra Mobile Genova
+DIFENSORE:            Avv. Paolo De Santis (sostituto)
+REGISTRAZIONE:        Audio-video integrale su supporto digitale sigillato 447-INT-08
+
+--------------------------------------------------------------------------------
+PRELIMINARI
+--------------------------------------------------------------------------------
+
+10:00:10 — Luca Greco è seduto con atteggiamento nervoso ma 
+cooperativo. Jeans, felpa con cappuccio, scarpe da ginnastica. 
+Presenta neo pigmentato allo zigomo sinistro, visibile e 
+confermato dai documenti d'identità.
+
+VANCE: "Signor Greco, la informo che questo interrogatorio è 
+condotto nell'ambito dell'indagine per omicidio del professor 
+Nathaniel Cross. Ha diritto alla presenza del difensore, 
+diritto di mantenere il silenzio, diritto di non autoaccusarsi."
+
+GRECO: "Collaboro. Non ho fatto niente di male. Forse qualcosa 
+di stupido, ma non di male."
+
+--------------------------------------------------------------------------------
+FASE I — IL BADGE E LA PALESTRA
+--------------------------------------------------------------------------------
+
+10:10:00 — Vance inizia.
+
+VANCE: "La sera del 3 ottobre è entrato in palestra FitActive 
+di Sampierdarena utilizzando il badge magnetico intestato a 
+Matteo Rinaldi. Perché?"
+
+GRECO: "Matteo me l'aveva chiesto. Mi ha detto che aveva un 
+impegno improvviso. Che doveva coprire la sua presenza. Mi ha 
+dato cinquanta euro e il badge."
+
+VANCE: "Non le è sembrato strano?"
+
+GRECO: "Sì, un po'. Ma Matteo è il capo. Non si dice di no al 
+capo. E cinquanta euro sono cinquanta euro."
+
+VANCE: "Sa che Rinaldi era dove?"
+
+GRECO: "Non lo so. Non me l'ha detto. Pensavo fosse con una 
+donna. O che avesse un appuntamento. Non ho chiesto."
+
+--------------------------------------------------------------------------------
+FASE II — IL NEO E IL VIDEO
+--------------------------------------------------------------------------------
+
+10:30:00 — Vance presenta il fotogramma del video.
+
+VANCE: "Il sistema di illuminazione a infrarossi della palestra 
+ha catturato il suo neo pigmentato. È l'unico elemento che ha 
+permesso di distinguerla da Rinaldi. Sa che cosa significa?"
+
+GRECO: (impallidisce) "Che... che sono stato io. Che Matteo 
+non era lì."
+
+VANCE: "Esatto. E sa anche che, mentre lei facev finta di 
+allenarsi, il veicolo di Rinaldi era parcheggiato a centottanta 
+metri dalla casa della vittima?"
+
+GRECO: (silenzio) "No. Non lo sapevo. Non lo sapevo davvero."
+
+--------------------------------------------------------------------------------
+FASE III — CONCLUSIONE
+--------------------------------------------------------------------------------
+
+10:50:00 — Vance conclude.
+
+VANCE: "Ha ucciso Nathaniel Cross?"
+
+GRECO: (sorpresa genuina) "Io? No! Non l'ho mai conosciuto 
+di persona. Solo di nome. Non ho motivo. Non ho coraggio. 
+Non ho nemmeno una pistola."
+
+11:00 — Interrogatorio concluso. Greco è affidato alla 
+custodia dell'avvocato De Santis in attesa di valutazione 
+per favoreggiamento personale.
+
+--------------------------------------------------------------------------------
+POST-INTERROGATORIO
+--------------------------------------------------------------------------------
+
+Annotazione conclusiva di Vance:
+Greco è un prestanome inconsapevole. La sua deposizione 
+conferma l'alibi fittizio di Rinaldi. Il versamento di 
+cinquanta euro è documentato dal flusso finanziario 
+(versamento in contanti alle 19:30 del 3 ottobre). 
+Configura un'ipotesi di favoreggiamento personale, 
+sebbene Greco dichiari di non essere a conoscenza del 
+delitto. La sua posizione è di collaboratore di giustizia 
+potenziale.
+
+================================================================================
+FINE TRASCRIZIONE
+================================================================================
+
+
+
+
+================================================================================
+UFFICIO FEDERALE DI INVESTIGAZIONE
+DIVISIONE INVESTIGATIVA — REATI CONTRO LA PERSONA
+UNITÀ LIAISON INTERNAZIONALE, SEDE DI ROMA
+
+TRASCRIZIONE INTEGRALE INTERROGATORIO
+================================================================================
+
+CASO N.:          447-GN
+OPERAZIONE:       MAREGGIATA
+SOGGETTO:         Franco Bianchi
+NATO:             Genova, 15 settembre 1955
+CITTADINANZA:     Italiana
+PROFESSIONE:      Portiere di Palazzo Doria
+RESIDENZA:        Alloggio di servizio, piano terra, Palazzo Doria
+STATO CIVILE:     Vedovo
+DATA:             4 ottobre 2026
+ORARIO INIZIO:    09:00
+ORARIO FINE:      10:00
+DURATA:           1 ora
+SALA:             Interrogatorio I8, Questura di Genova
+
+AGENTE CONDUTTORE:    Agente Speciale M. Vance, Distintivo 8851
+AGENTE OSSERVATORE:   Agente di Polizia Giudiziaria Marco Rossi
+DIFENSORE:            Nessuno — testimone non indagato
+REGISTRAZIONE:        Audio-video integrale su supporto digitale sigillato 447-INT-09
+
+--------------------------------------------------------------------------------
+PRELIMINARI
+--------------------------------------------------------------------------------
+
+09:00:05 — Franco Bianchi è seduto con atteggiamento cooperativo 
+ma visibilmente scosso. Grembiule da portiere, occhiali da lettura 
+appesi al collo.
+
+VANCE: "Signor Bianchi, la informo che questo interrogatorio è 
+condotto nell'ambito dell'indagine per omicidio del professor 
+Nathaniel Cross. Non è indagato. Ha diritto di mantenere il 
+silenzio, ma la sua testimonianza è preziosa per la ricostruzione 
+dei fatti."
+
+BIANCHI: "Dica pure. Io sono qui per aiutare. Il professore 
+era una brava persona. Un signore."
+
+--------------------------------------------------------------------------------
+FASE I — LA SERATA DEL 3 OTTOBRE
+--------------------------------------------------------------------------------
+
+09:15:00 — Vance inizia.
+
+VANCE: "Mi racconti la serata del 3 ottobre, a partire dalle 
+ore 20:00."
+
+BIANCHI: "Era una serata di pioggia. Allerta rossa. Il centro 
+storico si stava allagando. Alle 20:15 circa la signora Isabella 
+è uscita. Indossava un cappotto color cammello. Mi ha salutato. 
+È scesa con l'ascensore."
+
+VANCE: "Ha visto qualcun altro uscire o entrare dopo?"
+
+BIANCHI: "No. Non ho visto nessuno. Ma... ma il citofono della 
+Sala Blu non ha suonato. Il professore non mi ha chiamato. 
+Di solito mi chiamava per farmi portare su qualcosa. 
+Quella sera no."
+
+VANCE: "Ha notato nulla di anomalo?"
+
+BIANCHI: "Sì. Verso le 23:45 ho sentito dei passi nel vicolo 
+laterale. Pesanti. Come di qualcuno che camminava veloce. 
+Poi niente. La pioggia copriva tutto."
+
+--------------------------------------------------------------------------------
+FASE II — LA MATTINA DEL 4 OTTOBRE
+--------------------------------------------------------------------------------
+
+09:35:00 — Vance approfondisce.
+
+VANCE: "Quando ha saputo del decesso?"
+
+BIANCHI: "Alle 01:30 circa. Ho visto le luci della volante. 
+Sono salito. Il marine Brennan era lì. Ubriaco. Ha detto 
+che il professore era morto. Poi è arrivata la signora 
+Sharma. Ha detto che era un'analista. Ha iniziato a toccare 
+le cose."
+
+VANCE: "Cosa ha toccato?"
+
+BIANCHI: "Il tablet. E il computer delle telecamere. 
+Ha detto che doveva controllare i log. Poi l'ambulanza. 
+Poi voi."
+
+--------------------------------------------------------------------------------
+FASE III — CONCLUSIONE
+--------------------------------------------------------------------------------
+
+09:50:00 — Vance conclude.
+
+VANCE: "Ha visto Matteo Rinaldi quella sera?"
+
+BIANCHI: "No. Non l'ho visto. Ma conosco tutti i residenti. 
+Conosco i loro passi. Quelli nel vicolo... non erano i passi 
+di un residente. Erano pesanti. Decisi. Come di qualcuno 
+che sapeva dove andare."
+
+10:00 — Interrogatorio concluso. Bianchi è congedato con 
+ringraziamenti.
+
+--------------------------------------------------------------------------------
+POST-INTERROGATORIO
+--------------------------------------------------------------------------------
+
+Annotazione conclusiva di Vance:
+Bianchi è un testimone attendibile. La sua osservazione sui 
+passi nel vicolo (23:45) è compatibile con l'uscita di Rinaldi 
+dal condotto di ventilazione. La sua deposizione su Sharma 
+(alterazione log, tocco tablet) è coerente con le evidenze 
+digitali. Non presenta elementi di sospetto.
+
+================================================================================
+FINE TRASCRIZIONE
+================================================================================
+
+
+
+
+================================================================================
+UFFICIO FEDERALE DI INVESTIGAZIONE
+DIVISIONE INVESTIGATIVA — REATI CONTRO LA PERSONA
+UNITÀ LIAISON INTERNAZIONALE, SEDE DI ROMA
+
+TRASCRIZIONE INTEGRALE INTERROGATORIO
+================================================================================
+
+CASO N.:          447-GN
+OPERAZIONE:       MAREGGIATA
+SOGGETTO:         Giovanni Ricci (tassista)
+NATO:             Genova, 22 novembre 1968
+CITTADINANZA:     Italiana
+PROFESSIONE:      Autista di taxi — Cooperativa Radio Taxi Genova
+RESIDENZA:        Via delle Grazie 12, Genova
+STATO CIVILE:     Sposato
+DATA:             4 ottobre 2026
+ORARIO INIZIO:    11:00
+ORARIO FINE:      11:30
+DURATA:           30 minuti
+SALA:             Interrogatorio I8, Questura di Genova
+
+AGENTE CONDUTTORE:    Agente Speciale J. Carver, Distintivo 8847
+AGENTE OSSERVATORE:   Agente di Polizia Giudiziaria Marco Rossi
+DIFENSORE:            Nessuno — testimone non indagato
+REGISTRAZIONE:        Audio-video integrale su supporto digitale sigillato 447-INT-10
+
+--------------------------------------------------------------------------------
+PRELIMINARI
+--------------------------------------------------------------------------------
+
+11:00:10 — Giovanni Ricci è seduto con atteggiamento cooperativo. 
+Giacca della cooperativa, berretto in mano.
+
+CARVER: "Signor Ricci, la informo che questo interrogatorio è 
+condotto nell'ambito dell'indagine per omicidio. Non è indagato. 
+La sua testimonianza è importante."
+
+RICCI: "Dica pure. Io ricordo tutto. Ho una memoria da elefante."
+
+--------------------------------------------------------------------------------
+FASE I — LA CORSA DEL 3 OTTOBRE
+--------------------------------------------------------------------------------
+
+11:10:00 — Carver inizia.
+
+CARVER: "Mi racconti la corsa che ha effettuato la sera del 
+3 ottobre, intorno alle 21:45."
+
+RICCI: "Ero in via XXV Aprile, davanti al teatro. Una signora 
+mi ha fatto cenno. Bella, elegante, cappotto color cammello. 
+Era agitata. Ha detto: 'Salita Santa Caterina, presto.'"
+
+CARVER: "Cosa ha notato durante la corsa?"
+
+RICCI: "Pioveva a dirotto. Le strade si stavano allagando. 
+La signora guardava il telefono. Tremava. Non parlava. 
+Poi, arrivati all'ingresso di Salita Santa Caterina, ha 
+dato un biglietto da cinquanta euro e mi ha detto di 
+tenermi il resto. È scesa di corsa."
+
+CARVER: "Che ora era?"
+
+RICCI: "Le 21:52. Guardo sempre l'orologio quando i clienti 
+scendono. Per il registro."
+
+--------------------------------------------------------------------------------
+FASE II — IDENTIFICAZIONE
+--------------------------------------------------------------------------------
+
+11:20:00 — Carver presenta una foto.
+
+CARVER: "Riconosce questa donna?"
+
+RICCI: "Sì. È lei. La signora del cappotto cammello. 
+Non dimentico un volto. E non dimentico un biglietto 
+da cinquanta."
+
+--------------------------------------------------------------------------------
+FASE III — CONCLUSIONE
+--------------------------------------------------------------------------------
+
+11:25:00 — Carver conclude.
+
+CARVER: "Ha visto qualcun altro vicino a Palazzo Doria 
+quella sera?"
+
+RICCI: "No. Ero già ripartito. Ma ho visto una Volkswagen 
+Golf grigia parcheggiata vicino al Marina Park. Con le 
+lucci accese. Mi sono detto: 'Chi parcheggia con questa 
+pioggia?'"
+
+11:30 — Interrogatorio concluso. Ricci è congedato con 
+ringraziamenti.
+
+--------------------------------------------------------------------------------
+POST-INTERROGATORIO
+--------------------------------------------------------------------------------
+
+Annotazione conclusiva di Carver:
+Ricci è un testimone attendibile. La sua deposizione conferma 
+lo spostamento di Isabella Cross dal teatro a Palazzo Doria 
+(21:45-21:52). L'osservazione sulla Volkswagen Golf grigia 
+è compatibile con il veicolo di Rinaldi (GE-AB-447) parcheggiato 
+al Marina Park.
+
+================================================================================
+FINE TRASCRIZIONE
+================================================================================
+
+
+
+
+================================================================================
+UFFICIO FEDERALE DI INVESTIGAZIONE
+DIVISIONE INVESTIGATIVA — REATI CONTRO LA PERSONA
+UNITÀ LIAISON INTERNAZIONALE, SEDE DI ROMA
+
+TRASCRIZIONE INTEGRALE INTERROGATORIO
+================================================================================
+
+CASO N.:          447-GN
+OPERAZIONE:       MAREGGIATA
+SOGGETTO:         Davide Conti (barista)
+NATO:             Genova, 10 maggio 1995
+CITTADINANZA:     Italiana
+PROFESSIONE:      Barista — Caffè del Teatro, Via XXV Aprile 12, Genova
+RESIDENZA:        Via San Vincenzo 8, Genova
+STATO CIVILE:     Celibe
+DATA:             4 ottobre 2026
+ORARIO INIZIO:    12:00
+ORARIO FINE:      12:30
+DURATA:           30 minuti
+SALA:             Interrogatorio I8, Questura di Genova
+
+AGENTE CONDUTTORE:    Agente Speciale J. Carver, Distintivo 8847
+AGENTE OSSERVATORE:   Agente di Polizia Giudiziaria Marco Rossi
+DIFENSORE:            Nessuno — testimone non indagato
+REGISTRAZIONE:        Audio-video integrale su supporto digitale sigillato 447-INT-11
+
+--------------------------------------------------------------------------------
+PRELIMINARI
+--------------------------------------------------------------------------------
+
+12:00:05 — Davide Conti è seduto con atteggiamento nervoso 
+ma cooperativo. Grembiule del caffè, tatuaggio sul polso 
+sinistro.
+
+CARVER: "Signor Conti, la informo che questo interrogatorio 
+è condotto nell'ambito dell'indagine per omicidio. Non è 
+indagato."
+
+CONTI: "Dica pure. Io ho visto quella signora. Me la ricordo 
+bene."
+
+--------------------------------------------------------------------------------
+FASE I — L'AVVISTAMENTO
+--------------------------------------------------------------------------------
+
+12:10:00 — Carver inizia.
+
+CARVER: "Mi racconti cosa ha visto la sera del 3 ottobre, 
+intorno alle 21:45."
+
+CONTI: "Era l'intervallo del teatro. C'era molta gente 
+fuori, nonostante la pioggia. Stavo sparecchiando i tavolini 
+sotto il portico. Ho visto una signona uscire dal teatro. 
+Elegante, cappotto color cammello. Sembrava... agitata. 
+Non guardava in giro. Andava dritta verso la strada."
+
+CARVER: "Cosa ha fatto poi?"
+
+CONTI: "Ha alzato la mano. Un taxi si è fermato. È salita. 
+Il taxi è partito in direzione di Castelletto. Me lo ricordo 
+perché la pioggia era fortissima e il taxi ha fatto uno 
+spruzzo d'acqua su un signore in giacca e cravatta. 
+Il signore si è arrabbiato."
+
+CARVER: "Ha visto qualcun altro?"
+
+CONTI: "No. Solo quella signora. Ma... ma ho notato una cosa. 
+Aveva le scarpe bagnate. Come se avesse camminato sotto la 
+pioggia prima di entrare nel teatro. Strano, no?"
+
+--------------------------------------------------------------------------------
+FASE II — IDENTIFICAZIONE
+--------------------------------------------------------------------------------
+
+12:20:00 — Carver presenta una foto.
+
+CARVER: "Riconosce questa donna?"
+
+CONTI: "Sì. È lei. La signora del cappotto cammello. 
+Non dimentico un cliente che fa arrabbiare un signore 
+in giacca e cravatta."
+
+--------------------------------------------------------------------------------
+FASE III — CONCLUSIONE
+--------------------------------------------------------------------------------
+
+12:25:00 — Carver conclude.
+
+CARVER: "Ha visto Matteo Rinaldi quella sera?"
+
+CONTI: "No. Non conosco questa persona."
+
+12:30 — Interrogatorio concluso. Conti è congedato con 
+ringraziamenti.
+
+--------------------------------------------------------------------------------
+POST-INTERROGATORIO
+--------------------------------------------------------------------------------
+
+Annotazione conclusiva di Carver:
+Conti è un testimone attendibile. La sua deposizione conferma 
+l'abbandono del teatro da parte di Isabella Cross durante 
+l'intervallo (21:15-21:45). L'osservazione sulle scarpe bagnate 
+è compatibile con un precedente rientro a Palazzo Doria 
+(22:10), dove ha camminato su superfici bagnate.
+
+================================================================================
+FINE TRASCRIZIONE
+================================================================================

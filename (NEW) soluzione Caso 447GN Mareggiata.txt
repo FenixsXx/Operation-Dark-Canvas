@@ -1,0 +1,556 @@
+═══════════════════════════════════════════════════════════════════════════════
+CASO 447-GN — OPERAZIONE MAREGGIATA
+SOLUZIONE COMPLETA CON MOTIVAZIONI E PISTE
+═══════════════════════════════════════════════════════════════════════════════
+
+DATI DEL CASO
+─────────────
+Caso N.:        447-GN
+Operazione:     MAREGGIATA
+Tipologia:      Omicidio premeditato / Staging post-mortem
+Vittima:        Nathaniel Cross, M, 48 anni, cittadino USA
+                Coordinatore scientifico progetto NATO Nettuno
+Luogo:          Palazzo Doria, Salita Santa Caterina 14, Genova — Sala Blu
+Data fatto:     3 ottobre 2026, ore 23:00 (±15 min)
+Data dossier:   6 ottobre 2026
+Agenti:         J. Carver (8847) — M. Vance (8851)
+PM:             Dott. Federico Damiani, Tribunale di Genova
+
+═══════════════════════════════════════════════════════════════════════════════
+1. RIASSUNTO DEL FATTO
+═══════════════════════════════════════════════════════════════════════════════
+
+Nella serata del 3 ottobre 2026, nel corso di un'allerta rossa mareggiata sul 
+Golfo di Genova, il Prof. Nathaniel Cross è stato ucciso con un colpo di arma 
+da fuoco alla tempia sinistra all'interno della Sala Blu, safe room situata al 
+terzo piano di Palazzo Doria.
+
+La scena è stata sottoposta a STAGING POST-MORTEM per simulare un suicidio:
+• Il cadavere è stato riposizionato in posizione semiseduta, con il tronco inclinato in avanti, sulla scrivania
+• L'arma (Glock 19 matr. GNN447US) è stata collocata nella mano destra della vittima
+• È stata redatta una lettera digitale autolesionistica sul tablet della vittima
+
+L'ipotesi suicidiaria è stata ESCLUSA IN MODO INEQUIVOCABILE sulla base di 
+prove oggettive, balistiche, medico-legali e criminalistiche.
+
+═══════════════════════════════════════════════════════════════════════════════
+2. SOGGETTI COINVOLTI E VALUTAZIONE
+═══════════════════════════════════════════════════════════════════════════════
+
+┌──────────────────┬─────────────────────────────┬─────────────────────────────┐
+│ SOGGETTO         │ RUOLO PRESUNTO             │ VALUTAZIONE INVESTIGATIVA   │
+├──────────────────┼─────────────────────────────┼─────────────────────────────┤
+│ MATTEO RINALDI   │ INDAGATO / PRESUNTO OMICIDA│ Ingegnere elettronico       │
+│                  │                            │ senior, progetto Nettuno.   │
+│                  │                            │ Figlio naturale non         │
+│                  │                            │ riconosciuto della vittima. │
+│                  │                            │ Mancino.                    │
+├──────────────────┼─────────────────────────────┼─────────────────────────────┤
+│ PRIYA SHARMA     │ SOGGETTO BETA /            │ Analista FBI liaison        │
+│                  │ SLEEPER AGENT SVR          │ infiltrata. Non omicida.    │
+├──────────────────┼─────────────────────────────┼─────────────────────────────┤
+│ ISABELLA CROSS   │ SOGGETTO GAMMA /           │ Moglie della vittima.       │
+│                  │ OCCULTATRICE               │ Relazione extraconiugale    │
+│                  │                            │ con Kyle Brennan.           │
+├──────────────────┼─────────────────────────────┼─────────────────────────────┤
+│ KYLE BRENNAN     │ TESTIMONE / AMANTE         │ Marine, sicurezza progetto  │
+│                  │                            │ Nettuno. Non omicida.       │
+└──────────────────┴─────────────────────────────┴─────────────────────────────┘
+
+═══════════════════════════════════════════════════════════════════════════════
+3. TIMELINE CRONOLOGICA INTEGRATA (3 OTTOBRE 2026)
+═══════════════════════════════════════════════════════════════════════════════
+
+19:45  → Allerta rossa mareggiata; isolamento centro storico
+20:15  → Isabella esce da Palazzo Doria direzione Teatro Carlo Felice
+20:30  → Priya Sharma invia messaggio cifrato a handler russo (ordine: recuperare 
+         tablet entro le 24:00)
+20:45  → Rinaldi lascia appartamento via Cecchi (jeans, Timberland 44, cappotto 
+         loden nero). Ha con sé la Glock 19. Telefono SPENTO da qui in poi.
+21:00  → Isabella occupa posto palco D4; smartphone in modalità aereo
+21:15  → Isabella abbandona palco durante intervallo (posto D4 vuoto al secondo atto)
+21:01  → Un'altra persona usa al FitActive la credenziale associata a Rinaldi
+         (EV-29); le immagini la distinguono dal titolare.
+21:56  → Isabella prende un taxi nell'area del Teatro Carlo Felice.
+22:07  → Il taxi arriva nell'area di Salita Santa Caterina; EV-16 registra
+         l'accesso di Isabella all'ala residenziale alle 22:07:43.
+22:12  → Isabella chiama Kyle Brennan da numero anonimo (45 sec).
+22:25  → Isabella esce dall'area residenziale; dalle 22:26 il telefono è
+         compatibile con l'area di Via del Campo. Nessun dato la colloca nella
+         Sala Blu.
+22:15  → EV-06 ed EV-13 collocano il veicolo di Rinaldi al Marina Park; non
+         datano il suo ingresso nell'edificio.
+22:45–23:15 → Finestra medico-legale stimata del decesso (EV-09); le 23:00
+         sono il punto centrale convenzionale, non un'ora accertata.
+         La ricostruzione attribuisce a Rinaldi l'accesso, lo sparo e lo staging
+         sulla base dell'insieme dei reperti; i singoli gesti non sono datati
+         al minuto.
+23:45  → Priya Sharma si presenta al portone di Palazzo Doria. Tentativo di accesso 
+         con BADGE CLONATO fallito (sistema in blocco totale)
+23:47:12 → Timestamp del file della nota digitale sul tablet (EV-02), successivo
+         alla finestra medico-legale stimata.
+00:02  → Il veicolo GE-AB-447 lascia il Marina Park secondo il GPS (EV-13).
+00:14  → Il veicolo arriva nell'area della palestra FitActive (EV-13); il GPS
+         del mezzo non identifica da solo chi lo guidasse.
+         EV-04, EV-05 ed EV-20 sono compatibili con il percorso dal condotto e
+         sul terrazzo, ma non ne stabiliscono l'orario preciso.
+01:05  → Priya Sharma ritorna a Palazzo Doria, altera i log NVR, tenta di 
+         sottrarre il tablet. Kyle Brennan la sorprende.
+01:23  → CHIAMATA AL 112 da parte di Kyle Brennan
+
+═══════════════════════════════════════════════════════════════════════════════
+4. ESCLUSIONE DEL SUICIDIO — EVIDENZE SUL CAMPO
+═══════════════════════════════════════════════════════════════════════════════
+
+EVIDENZA              RILEVAZIONE
+───────────────────────────────────────────────────────────────────────────────
+Ipostasi cadaverica   Posteriori e parzialmente fisse, discordanti con la postura
+                      finale semiseduta e con il tronco inclinato in avanti. Il dato sostiene un
+                      riposizionamento, ma non ne stabilisce l'ora precisa.
+
+Lesione termica       Sul palmo della mano destra. Posizione dell'arma e lesione
+                      sono compatibili con uno staging; non identificano da
+                      sole l'autore materiale.
+
+GSR (residui da sparo)  Nessun GSR rilevabile sulle mani della vittima. Il dato
+                      sostiene l'ipotesi che non abbia sparato, ma va valutato
+                      con gli altri elementi e i limiti del test.
+
+Traiettoria balistica   Ingresso alla tempia sinistra e uscita parietale destra.
+                      Lo schema è orientativo e non in scala: non consente di
+                      dedurre lateralità, postura o identità dello sparatore.
+
+Via di accesso          Fibra nel condotto, impronta sul terrazzo e competenze
+                      tecniche di Rinaldi sostengono l'ipotesi di un accesso
+                      secondario; non ne fissano l'orario né provano da soli
+                      chi abbia percorso il condotto.
+
+Valutazione            Gli elementi medico-legali e la scena sono incompatibili
+                      con una lettura semplicistica di suicidio, ma nessuno
+                      di questi reperti identifica da solo l'autore.
+
+═══════════════════════════════════════════════════════════════════════════════
+5. CATALOGO REPERTI E VALORE PROBATORIO
+═══════════════════════════════════════════════════════════════════════════════
+
+EV-01 — BICCHIERE IN CRISTALLO (TUMBLER)
+───────────────────────────────────────────────────────────────────────────────
+• Rinvenuto sul sottobicchiere in Sala Blu
+• DNA salivare compatibile al 99,98% con MATTEO RINALDI
+• Quantità consistente con sorso <4 ore prima del sopralluogo
+• Impronte digitali sovrapposte a quelle della vittima
+• Il bicchiere era stato lavato alle 12:00 del 3 ottobre dal personale di servizio
+→ Rinaldi ha bevuto dal bicchiere di Cross DURANTE la permanenza in Sala Blu
+
+EV-02 — TABLET APPLE IPAD PRO
+───────────────────────────────────────────────────────────────────────────────
+• Schermo attivo su documento Notes con lettera di suicidio digitale
+• Timestamp: 23:47:12 del 3 ottobre 2026
+• Layout tastiera: IT-IT (anomalo rispetto al profilo EN-US documentato di Cross)
+• Il riepilogo disponibile non riporta il valore integrale dell'hash SHA-256:
+  l'abbreviazione con ellissi non costituisce un hash verificabile
+• Cancellazione selettiva cronologia test paternità
+• Citazione dantesca «Lasciate ogne speranza» presente nella BIO INSTAGRAM di Rinaldi
+• Pattern battitura irregolare (latenza media 412 ms, picco 1.240 ms su «ogne»)
+  indicativo di composizione lenta da soggetto non abituale
+→ Layout, lessico, citazione e tracce di modifica rendono Rinaldi l'autore
+  più probabile; il solo layout o la citazione non identificano individualmente
+  chi ha digitato il testo.
+
+EV-03 — PISTOLA SEMIAUTOMATICA GLOCK 19 (matr. GNN447US)
+───────────────────────────────────────────────────────────────────────────────
+• Un solo colpo esploso; serbatoio vuoto
+• Bruciatura da contatto sul palmo destro della vittima (anomala per autoinflizione)
+• Assenza GSR sulle mani di Cross
+• La ricostruzione della traiettoria è orientativa e non identifica lateralità,
+  postura o autore materiale
+• Rigature canna a 6 righe destrorse perfettamente sovrapponibili al proiettile
+→ GSR, lesioni, posizione dell'arma e staging sono compatibili con un omicidio;
+  la traiettoria, da sola, non dimostra chi abbia sparato né con quale mano.
+
+EV-04 — FIBRA TESSILE NERA (8 mm)
+───────────────────────────────────────────────────────────────────────────────
+• Rinvenuta incastrata nella griglia del condotto di ventilazione
+• Caratteristiche morfologiche, cromatiche e chimiche compatibili con il
+  cappotto Schneiders Loden nero di Rinaldi
+• Fotografia Instagram del 2 ottobre 2026 conferma il possesso del capo
+→ Il reperto sostiene il passaggio di Rinaldi nel condotto, ma non prova da
+  solo quando sia avvenuto né identifica univocamente chi lo abbia percorso.
+
+EV-05 — IMPRONTA PARZIALE DI SUOLA SU TERRAZZO BAGNATO
+───────────────────────────────────────────────────────────────────────────────
+• Pattern esagonale regolare (lati 5 mm), taglia 44, lunghezza 30 cm
+• Pressione plantare compatibile con peso 80-85 kg
+• Compatibilità con marca, modello, misura e disegno della suola degli
+  scarponcini Timberland sequestrati a Rinaldi; il dettaglio accidentale sul
+  tacco aumenta il valore associativo
+• Tracce microscopiche di poliuretano termoplastico sul cotto (FT-IR)
+→ L'impronta è compatibile con le calzature di Rinaldi; il rapporto EV-20
+  non consente di datarne la deposizione al minuto.
+
+EV-06 — SCONTRINO PARCHEGGIO MARINA PARK
+───────────────────────────────────────────────────────────────────────────────
+• Data: 03/10/2026, ora 22:15:07, durata 4 ore, importo €2,50
+• Colloca il veicolo GE-AB-447 associato a Rinaldi a 180 m dalla scena; non
+  identifica chi lo abbia parcheggiato
+• Database gestore conferma transazione
+• EV-13 registra l'uscita del veicolo alle 00:02
+→ SMONTA L'ALIBI palestra/metropolitana di Rinaldi
+
+EV-07 — BIGLIETTO TEATRO CARLO FELICE (posto palco D4)
+───────────────────────────────────────────────────────────────────────────────
+• Conferma ingresso Isabella ma codice a barre mostra SOLO accesso iniziale
+• Registro posti: D4 non occupato durante un controllo del secondo atto, dopo
+  l'intervallo; il dato non identifica chi abbia lasciato il posto né quando
+→ L'alibi di permanenza per l'intero spettacolo non è confermato
+
+EV-08 — EMAIL BOZZA DEL 2 OTTOBRE 2026 (terminale fisso Sala Blu)
+───────────────────────────────────────────────────────────────────────────────
+• Contiene disposizioni testamentarie e intenzione di riconoscere Matteo Rinaldi 
+  come figlio naturale, con attribuzione quota ereditaria e diritti sul progetto Nettuno
+• Timestamp bozza: 14:30:22 CEST (UTC+02:00)
+• Recuperata da cartella cifrata protetta da password
+• Il soggetto che ha redatto la lettera digitale (EV-02) ignorava l'esistenza 
+  di questa email
+→ Costituisce il ribaltamento tragico del movente: Rinaldi ignora il riconoscimento
+  imminente e agisce per rabbia e vendetta legate alla paternità negata.
+
+EV-09 — FINESTRA TEMPORALE AUTOPTICA
+───────────────────────────────────────────────────────────────────────────────
+• Stima del decesso: tra le 22:45 e le 23:15 del 3 ottobre 2026; le 23:00
+  sono il punto centrale convenzionale, non un orario accertato
+• Assenza di GSR sulle mani della vittima; valutare con lesioni, posizione
+  dell'arma e altri reperti
+→ Compatibile con omicidio e staging; non identifica da sola l'autore
+
+EV-10 — LOG NVR LOCALE (copia acquisita)
+───────────────────────────────────────────────────────────────────────────────
+• Nessun tentativo di accesso registrato alle 23:45
+• Ultimo evento visibile alle 22:10
+→ Il log locale è stato alterato
+
+EV-11 — LOG NVR CLOUD (backup originale)
+───────────────────────────────────────────────────────────────────────────────
+• Tentativo di accesso alla Sala Blu alle 23:45 con badge non riconosciuto
+→ Priya Sharma ha tentato l'accesso con badge clonato DOPO l'omicidio
+
+EV-12 — TABULATI TELEFONICI
+───────────────────────────────────────────────────────────────────────────────
+• Celle agganciate Palazzo Doria 22:08-22:26 (Isabella)
+• Via del Campo 22:26-23:58 (Isabella)
+• Chiamata anonima di 45 secondi alle 22:12 (Isabella → Brennan)
+• Telefono Rinaldi SPENTO dalle 20:45 alle 23:56
+→ Il telefono offline è compatibile con un tentativo di eludere il
+  tracciamento; non ne prova da solo il motivo o la posizione di Rinaldi
+
+EV-13 — GPS VEICOLO GE-AB-447
+───────────────────────────────────────────────────────────────────────────────
+• Traccia: Marina Park, 3 ottobre 2026, ingresso alle 22:15:07
+• Partenza alle 00:02, arrivo FitActive alle 00:14
+→ Colloca il veicolo nell'area della scena; non prova chi fosse alla guida
+
+EV-14 — DISPOSITIVI E ACCESSI · CAMERA SHARMA
+───────────────────────────────────────────────────────────────────────────────
+• Estratto attività dispositivo e accesso remoto camera 322 Grand Hotel Savoia
+→ Il dispositivo è correlato alla sessione remota che ha alterato i log NVR;
+  il dato tecnico non identifica isolatamente chi lo utilizzasse
+
+EV-15 — CHIAMATA AL 112 · RAPPORTO BRENNAN
+───────────────────────────────────────────────────────────────────────────────
+• Registrazione e dati della chiamata al 112 effettuata da Kyle Brennan alle 01:23
+→ Conferma il ritardo nella segnalazione
+
+═══════════════════════════════════════════════════════════════════════════════
+6. ANALISI BALISTICA E MEDICO-LEGALE
+═══════════════════════════════════════════════════════════════════════════════
+
+FERITA D'INGRESSO:
+• Regione temporale sinistra, ~2 cm sopra arco zigomatico
+• Orifizio circolare ~11 mm, bordi invertiti
+• Alone bruciatura da contatto ellittica (raggio 8 mm)
+• Nessun tatuaggio da polvere a distanza
+
+FERITA D'USCITA:
+• Regione parietale destra, ~4 cm sopra orecchio destro
+• Perdita di sostanza a stella, ~25-30 mm, bordi laceri
+
+ANALISI GSR (spettrometria XDS):
+• Antimonio, bario e piombo in tracce infinitesimali sulla mano destra della vittima
+  (SOTTO SOGLIA standard per soggetto che ha sparato)
+• Mano sinistra completamente negativa
+• Glock 19 presenta abbondanti residui GSR su canna, otturatore e impugnatura
+
+VALUTAZIONE DELLA TRAIETTORIA:
+• Lo schema BAL-447-GN-031-A è orientativo e non in scala; riporta una direzione
+  generale nel piano, non una ricostruzione tridimensionale della posizione
+  dell'arma o della mano dello sparatore.
+• Il referto non consente di dedurre lateralità, postura o identità dell'autore.
+• Il fatto che Rinaldi sia mancino è un dato contestuale, non una prova balistica
+  identificativa.
+
+TOSSICOLOGIA:
+• Morfina: 35 ng/mL (terapia antalgica oncologica, non letale)
+• Ossicodone: 12 ng/mL
+• Midazolam: 8 ng/mL (sedazione leggera)
+• Alcol etilico: ASSENTE
+→ Le sostanze non hanno influito sulla causa del decesso
+
+PATOLOGIA DI BASE:
+• Adenocarcinoma polmonare in stadio terminale (NSCLC, PD-L1>50%)
+• Stato di cachessia
+→ La malattia non ha rilevanza causale sul decesso ma costituisce elemento 
+  di contesto psicologico
+
+═══════════════════════════════════════════════════════════════════════════════
+7. INTERROGATORI FD-302 — SINTESI
+═══════════════════════════════════════════════════════════════════════════════
+
+7.1 MATTEO RINALDI (FD-302/03 — 5 ottobre 2026, 14:00-16:15)
+───────────────────────────────────────────────────────────────────────────────
+ALIBI INIZIALE:
+• Sostiene di essere uscito alle 20:45, preso metropolitana da Brin, arrivato 
+  in palestra FitActive alle 21:00 e uscito alle 00:30
+• Sostiene di non aver visto Cross quella sera
+
+CONFRONTO CON LE PROVE:
+• EV-06 (scontrino): presentato alle 14:04. Rinaldi impallidisce, pupille dilatate.
+  Dopo 7 secondi di silenzio sostiene un "possibile errore di memoria".
+  Frequenza battito ciglio da 12 a 22/min.
+
+• EV-29: la credenziale associata a Rinaldi viene usata al tornello alle 21:01:16
+  da una persona diversa dal titolare; i fotogrammi sono compatibili con Luca
+  Greco, ma non costituiscono identificazione biometrica certa.
+• Il verbale cita anche un fotogramma alle 21:17:44: è un riferimento distinto
+  e non sostituisce l'orario del passaggio al tornello riportato in EV-29.
+
+• EV-01 (DNA bicchiere): presentato alle 14:13. Rinaldi sussulta. Sostiene di 
+  bere spesso whisky con Cross, ma il bicchiere era stato lavato alle 12:00.
+
+• EV-04 (fibra cappotto): presentato alle 14:17. Rinaldi nega inizialmente di 
+  possedere il cappotto loden nero, poi ammette di non ricordare.
+
+• EV-05 (impronta suola): presentato alle 14:21. Rinaldi nega di aver calpestato 
+  il terrazzo.
+
+• EV-02 (lettera digitale): presentata alle 14:24. Rinaldi minimizza la citazione 
+  dantesca («Lasciate ogne speranza») come comune, ma nel corpus di 12.000 email 
+  di Cross compare in 3 messaggi formali, mentre nel corpus di 400 email di Rinaldi 
+  compare 18 volte (inclusa firma automatica storica).
+  Layout tastiera: Rinaldi conferma di usare esclusivamente IT-IT. Cross usava EN-US.
+
+• Mancinismo: Rinaldi conferma di essere mancino (14:29). Il dato è coerente
+  con il profilo, ma la traiettoria allegata non consente di attribuire il colpo
+  alla mano sinistra né di identificare l'autore.
+
+CROLLO NARRATIVO E AMMISSIONE IMPLICITA:
+• Alle 14:35, Carver presenta EV-08 (email testamentaria/bozza di riconoscimento 
+  di paternità). Rinaldi legge il documento con mani tremanti.
+• Alle 14:42:18, dopo 4 minuti di silenzio, pronuncia:
+  «Non poteva dirmelo prima? Trentotto anni e non una parola. E ora voleva 
+   comprarmi con un testamento?»
+→ Questa dichiarazione costituisce AMMISSIONE IMPLICITA del movente e del 
+  rapporto di filiazione.
+
+• Alle 14:45, alla domanda diretta «Ha ucciso Nathaniel Cross?», Rinaldi non 
+  nega né conferma. Dichiara:
+  «Ho ucciso l'uomo che credevo mi avesse buttato via.»
+
+7.2 PRIYA SHARMA (FD-302/04 — 5 ottobre 2026, 16:30-18:45)
+───────────────────────────────────────────────────────────────────────────────
+• Rinuncia anomala all'avvocato (tentativo di mantenere il controllo informativo)
+• Postura eretta, battito ciglio stabile a 10/min — elevato controllo emotivo
+
+CONTRADDIZIONI:
+• Termine «Sala Blu»: Sharma lo utilizza nel rapporto preliminare alle 02:30 del 
+  4 ottobre. Nei 14 rapporti mensili di Cross all'FBI la stanza è sempre definita 
+  «Studio Tecnico B», «stanza blindata» o «unità sicura». Il termine «Sala Blu» 
+  compare esclusivamente in documentazione NATO restricted. Sharma non aveva 
+  accesso ufficiale a tale documentazione.
+
+• Badge clonato: log NVR originale registra tentativo alle 23:45 con ID 
+  CLONE-0x9F4A2B1C. L'indirizzo IP dell'alterazione (01:05) corrisponde al router 
+  WiFi della camera 322 del Grand Hotel Savoia, assegnato statico al dispositivo 
+  Sharma per tutto il soggiorno (28 settembre — 5 ottobre).
+
+• Messaggio cifrato: dump forense smartphone alle 20:30. Messaggio in inglese a 
+  handler SVR: «recuperare il tablet prima delle 24. Elimina le foto.»
+
+CONFESSIONE OPERATIVA:
+• Alle 16:56 dichiara:
+  «Il mio ordine non era uccidere Cross. Cross era già morto quando sono arrivata.
+   Il mio compito era recuperare il materiale di ricatto, le fotografie della moglie 
+   Cross con il marine Brennan, che costituivano la leva per impedire a Cross di 
+   denunciare il doppio gioco del progetto Nettuno al Senato americano. Il tablet 
+   era la chiave. Senza quelle foto, la rete di ricatto crollava. Non ho ucciso 
+   nessuno.»
+
+→ Sharma NON è accusata di omicidio. È sleeper agent SVR con ordine di recupero 
+  del materiale di ricatto.
+
+7.3 ISABELLA CROSS (FD-302)
+───────────────────────────────────────────────────────────────────────────────
+• Dichiara di aver assistito allo spettacolo al Teatro Carlo Felice e di essere 
+  rientrata nell'area di Palazzo Doria intorno alle 22:08
+• Ha avuto accesso soltanto all'ala residenziale e ha chiamato Brennan alle 22:12
+• In realtà: ha occultato il rientro e la permanenza presso Brennan; non risulta
+  un accesso alla Sala Blu durante la finestra critica. Brennan scopre il corpo
+  alle 00:45 e chiama il 112 alle 01:23.
+• Movente NON omicidiario ma occultativo: temeva la scoperta del tradimento
+
+7.4 KYLE BRENNAN (FD-302)
+───────────────────────────────────────────────────────────────────────────────
+• Dichiara di aver ricevuto una chiamata anonima da Isabella e di essersi recato 
+  a Palazzo Doria
+• Riferisce di aver chiamato il 112 dopo aver compreso la situazione
+• In realtà: ha scoperto materialmente il corpo alle 00:45. Tra le 00:45 e le 01:23
+  verifica le condizioni di Cross, tenta di contattare Isabella, esita per paura
+  di essere coinvolto e protegge la relazione prima di chiamare il 112.
+• Non indagato per omicidio
+
+═══════════════════════════════════════════════════════════════════════════════
+8. SCAGIONAMENTO DEI SOGGETTI NON COLPEVOLI
+═══════════════════════════════════════════════════════════════════════════════
+
+PRIYA SHARMA — NON OMICIDA
+───────────────────────────────────────────────────────────────────────────────
+• La finestra medico-legale colloca il decesso tra le 22:45 e le 23:15; il
+  tentativo di accesso documentato alle 23:45 è successivo a tale intervallo.
+• Alle 23:45 Sharma era al portone di Palazzo Doria (tentativo accesso con 
+  badge clonato fallito)
+• Alle 20:30 era al Grand Hotel Savoia (messaggio cifrato a handler russo)
+• Non ha accesso fisico alla Sala Blu prima dell'omicidio
+• Il suo movente è spionaggio/recupero materiale di ricatto, non omicidio
+• Non ha conoscenza del condotto di ventilazione
+
+ISABELLA CROSS — NON OMICIDA
+───────────────────────────────────────────────────────────────────────────────
+• Alibi teatrale parzialmente confermato (ingresso D4 confermato)
+• Posto vuoto durante il secondo atto, ma timeline telefonica la colloca nell'area
+  residenziale di Palazzo Doria intorno alle 22:08 e poi a Via del Campo 
+  (casa Brennan) dalle 22:26 in poi
+• Non ha competenze tecniche per alterare log NVR né accesso al condotto 
+  di ventilazione
+• Il suo movente è occultamento del tradimento, non omicidio
+• Non ha tracce balistiche, GSR o biologiche sulla scena
+
+KYLE BRENNAN — NON OMICIDA
+───────────────────────────────────────────────────────────────────────────────
+• Marine statunitense, addetto sicurezza progetto Nettuno
+• Ha ricevuto chiamata da Isabella alle 22:12
+• Celle telefoniche: Via del Campo (sua residenza) durante la finestra omicidiaria
+• Non ha accesso al condotto di ventilazione
+• Non ha movente omicidiario
+• Ritardo nella chiamata al 112 dovuto a stato confusionale/alcol
+
+═══════════════════════════════════════════════════════════════════════════════
+9. RICOSTRUZIONE DELL'OMICIDIO
+═══════════════════════════════════════════════════════════════════════════════
+
+Matteo Rinaldi, figlio naturale non riconosciuto di Nathaniel Cross, aveva
+appreso la propria paternità dalla madre. La bozza non inviata EV-08 documenta
+l'intenzione di Cross di predisporre un riconoscimento e disposizioni
+testamentarie; non dimostra che Rinaldi ne fosse a conoscenza prima del delitto.
+Questo avrebbe comportato:
+• Riconoscimento di paternità naturale
+• Quota ereditaria congrua
+• Titolarità dei diritti intellettuali e contrattuali del progetto Nettuno
+
+Rinaldi, consumato da vendetta per 38 anni di paternità negata e dalla volontà 
+di annientare la figura paterna prima del riconoscimento, ha pianificato 
+l'omicidio:
+
+1. PREPARAZIONE:
+   • Il telefono di Rinaldi risulta spento/offline dalle 20:45; il dato è
+     compatibile con l'elusione del tracciamento, ma non ne prova da solo il motivo.
+   • La Glock 19 risulta sottratta alla normale custodia dell'armeria.
+   • Fibra e impronta sono compatibili con il suo cappotto e i suoi scarponcini.
+
+2. ACCESSO:
+   • EV-06 ed EV-13 collocano il veicolo al Marina Park dalle 22:15:07 alle 00:02;
+     questo non prova da solo chi fosse alla guida o l'ora di arrivo di Rinaldi.
+   • Fibra EV-04, impronta EV-05 e conoscenza tecnica documentata da EV-18
+     sostengono l'ipotesi del passaggio attraverso il condotto e il terrazzo.
+
+3. OMICIDIO:
+   • La finestra medico-legale è 22:45–23:15; le 23:00 sono il suo punto centrale,
+     non un orario accertato.
+   • Le prove sostengono l'ipotesi che Rinaldi abbia sparato alla vittima e
+     simulato il suicidio. Non sono disponibili elementi per fissare al minuto
+     il confronto, la postura o la mano usata.
+   • La traiettoria è descritta nello schema come orientativa; non identifica
+     lateralità o autore materiale.
+
+4. STAGING POST-MORTEM:
+   • Posizionato l'arma nella mano destra di Cross (causando bruciatura da 
+     contatto palmare anomala)
+   • La nota sul tablet reca timestamp 23:47:12; layout IT-IT e citazione
+     dantesca sono compatibili con Rinaldi, ma non sono identificatori individuali.
+   • Cancellato cronologia test paternità
+   • Bevuto un sorso di whisky dal bicchiere di Cross (depositando DNA salivare)
+
+5. FUGA:
+   • Fibra EV-04 e impronta EV-05 sono compatibili con il percorso ipotizzato,
+     ma EV-20 non consente di datarli al minuto.
+   • Il veicolo lascia il Marina Park alle 00:02 e raggiunge l'area FitActive
+     alle 00:14; il GPS non identifica chi fosse alla guida.
+   • EV-29 documenta l'uso della credenziale di Rinaldi da parte di un'altra
+     persona, compatibile con Luca Greco, senza identificazione biometrica certa.
+
+═══════════════════════════════════════════════════════════════════════════════
+10. QUADRO PROBATORIO — CATENA DI CORRISPONDENZE
+═══════════════════════════════════════════════════════════════════════════════
+
+ELEMENTO PROBATORIO          CORRISPONDENZA CON RINALDI
+───────────────────────────────────────────────────────────────────────────────
+Movente                      Figlio naturale non riconosciuto; scoperta paternità 
+                             tramite lettera madre defunta; kit DNA EasyDNA nel 
+                             cestino; bozza EV-08 del 2 ottobre alle 14:30,
+                             circa 32 ore prima della finestra medico-legale
+
+Accesso                      Conoscenza condotto ventilazione (progettista 
+                             impianti); griglia forzata dall'interno; nessuna 
+                             effrazione esterna
+
+Presenza fisica              DNA salivare (EV-01); fibra cappotto (EV-04); 
+                             impronta suola (EV-05); scontrino parcheggio (EV-06); 
+                             veicolo tracciato GPS (EV-13)
+
+Staging                      Lettera digitale con layout IT-IT e citazione Dante 
+                             (bio Instagram); cancellazione cronologia test 
+                             paternità; bruciatura palmare anomala; assenza GSR 
+                             su mani vittima
+
+Balistica                    GSR, lesioni, posizione dell'arma e staging sono
+                             compatibili con omicidio; la traiettoria non
+                             identifica l'autore né la mano usata
+
+Alibi                        Smentito da scontrino, video prestanome, assenza 
+                             transazioni ATM/metropolitana, telefono spento 
+                             durante finestra omicidio
+
+═══════════════════════════════════════════════════════════════════════════════
+11. CONCLUSIONI E RACCOMANDAZIONI
+═══════════════════════════════════════════════════════════════════════════════
+
+1. Trasmissione degli elementi al Pubblico Ministero per la valutazione delle
+   misure cautelari e delle fattispecie applicabili. La qualificazione giuridica
+   e la valutazione dello standard probatorio spettano all'autorità competente.
+
+2. SEQUESTRO CONSERVATIVO di tutti i beni e dispositivi elettronici di Rinaldi 
+   già sottoposti a sequestro (fascette 447-SE-01 ÷ 447-SE-04).
+
+3. RICHIESTA DI REVOCA CLEARANCES di Priya Sharma e notifica all'IAD 
+   (Internal Affairs Division) / Counterintelligence Division FBI per 
+   procedimenti autonomi (spionaggio, accesso abusivo a sistema informatico, 
+   alterazione di prove).
+
+4. DEFERIMENTO di Isabella Cross alla Procura per valutazione di concorso 
+   in occultamento di cadavere o favoreggiamento personale.
+
+5. TRASMISSIONE del presente dossier alla Procura della Repubblica presso 
+   il Tribunale di Genova (Dott. Federico Damiani) per l'esercizio 
+   dell'azione penale.
+
+═══════════════════════════════════════════════════════════════════════════════
+FINE SOLUZIONE
+═══════════════════════════════════════════════════════════════════════════════

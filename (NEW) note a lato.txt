@@ -1,0 +1,42 @@
+================================================================================
+UFFICIO FEDERALE DI INVESTIGAZIONE
+DIVISIONE INVESTIGATIVA — REATI CONTRO LA PERSONA
+UNITÀ LIAISON INTERNAZIONALE, SEDE DI ROMA
+
+NOTA OPERATIVA A MARGINE – TENTATIVO DI ACCESSO SALA BLU
+CASO N.: 447-GN                    OPERAZIONE: MAREGGIATA
+DATA: 6 ottobre 2026               AGENTE: J. Carver, Distintivo 8847
+================================================================================
+
+Il tentativo di accesso alle ore 23:45 del 3 ottobre 2026, registrato dal log NVR originale (recuperato dal backup cloud), documenta l'approccio della Sharma alla porta blindata mediante badge clonato (reperto 447-SE-07).
+Il sistema di sicurezza, posto in modalità blocco totale dal soggetto Cross prima dell'arrivo di Rinaldi, ha rigettato l'autenticazione: il server principale non ha riconosciuto il codice identificativo del badge clonato, impedendo lo sblocco elettromeccanico.
+La Sharma non ha mai varcato la soglia fisica.
+La traccia del tentativo è stata successivamente cancellata dalla stessa Sharma alle ore 01:05 del 4 ottobre tramite accesso remoto dall'indirizzo IP 192.168.1.47 assegnato alla sua camera al Grand Hotel Savoia.
+
+
+
+--------------------------------------------------------------------------------
+ATTESTAZIONE DI CONTINUITÀ DELLA CATENA DI CUSTODIA
+DOSSIER 447-GN – OPERAZIONE MAREGGIATA
+--------------------------------------------------------------------------------
+
+Io sottoscritto, Agente Speciale J. Carver, Distintivo 8847, dichiaro sotto la mia responsabilità che tutti i verbali di perquisizione, i referti tecnici e i documenti allegati al presente dossier 447-GN recano la mia firma autografa o digitale apposta in originale.
+La continuità burocratica e la catena di custodia dei reperti (fascette 447-SE-01 a 447-SE-22) sono garantite dai verbali di consegna sottoscritti da ogni operatore, con indicazione oraria di ogni passaggio, come documentato nel Catalogo dei Sequestri allegato al Documento 4.
+
+
+
+################################################################################
+REPARTO INVESTIGAZIONI SCIENTIFICHE
+SQUADRA MOBILE — QUESTURA DI GENOVA
+UNITÀ ANALISI CRIMINALISTICA E TRACE EVIDENCE / CYBER-FORENSE
+COLLABORAZIONE OPERATIVA FBI EVIDENCE RESPONSE TEAM
+
+NOTA TECNICA INFORMATICA A MARGINE
+CASO N.: 447-GN                    OPERAZIONE: MAREGGIATA
+DATA: 6 ottobre 2026               TECNICO RESPONSABILE: Dott. F. Neri
+AGENTE SUPERVISORE: Agente Speciale J. Carver, Distintivo 8847
+################################################################################
+
+Analisi preliminare del computer portatile Dell XPS 15, sequestrato presso l'abitazione del soggetto Matteo Rinaldi, ha evidenziato che il sistema operativo è configurato con layout tastiera italiano IT-IT, incluso dizionario predittivo e impostazioni regionali Italia.
+Tale configurazione risulta incompatibile con le abitudini documentate della vittima Nathaniel Cross, il quale utilizzava esclusivamente il layout inglese EN-US su tutti i propri dispositivi, come attestato dal corpus delle email professionali e dai rapporti NATO acquisiti.
+Il dato corrobora l'ipotesi che la lettera digitale sul tablet (reperto EV-02) sia stata redatta dal soggetto Rinaldi.

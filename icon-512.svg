@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="447-GN">
+  <rect width="512" height="512" rx="74" fill="#080d16"/>
+  <rect x="38" y="38" width="436" height="436" rx="53" fill="none" stroke="#65d5f5" stroke-width="11"/>
+  <path d="M101 149h310M101 363h310" stroke="#33455f" stroke-width="11"/>
+  <text x="256" y="283" fill="#dce8f4" font-family="monospace" font-size="101" font-weight="700" text-anchor="middle">447-GN</text>
+  <circle cx="112" cy="112" r="16" fill="#fbbf24"/><circle cx="160" cy="112" r="16" fill="#34d399"/>
+</svg>
