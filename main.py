@@ -6,6 +6,7 @@ import json
 import logging
 import os
 import sqlite3
+import sys
 import time
 from collections import defaultdict
 from datetime import datetime, timedelta, timezone
@@ -14,7 +15,7 @@ from typing import Any
 
 from flask import Flask, jsonify, request, send_from_directory, session
 
-BASE_DIR = Path(__file__).resolve().parent
+BASE_DIR = Path(getattr(sys, "_MEIPASS", Path(__file__).resolve().parent))
 DATABASE = Path(os.environ.get("DARK_CANVAS_DB", BASE_DIR / "dark_canvas.sqlite3"))
 LOG_FILE = Path(os.environ.get("DARK_CANVAS_LOG", BASE_DIR / "dark_canvas.log"))
 
@@ -101,7 +102,7 @@ def enforce_csrf() -> None:
 def add_security_headers(response):
     response.headers["X-Content-Type-Options"] = "nosniff"
     response.headers["X-Frame-Options"] = "SAMEORIGIN"
-    response.headers["Content-Security-Policy"] = "default-src 'self'; img-src 'self' data:; media-src 'self'; frame-src 'self'; frame-ancestors 'self'; style-src 'self' 'unsafe-inline' https://cdn.tailwindcss.com; script-src 'self' 'unsafe-inline' https://cdn.tailwindcss.com https://unpkg.com"
+    response.headers["Content-Security-Policy"] = "default-src 'self'; img-src 'self' data:; media-src 'self'; frame-src 'self'; frame-ancestors 'self'; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline'"
     response.headers["Referrer-Policy"] = "same-origin"
     if request.path == "/api/state" and response.status_code < 400 and response.is_json:
         payload = response.get_json()
@@ -922,9 +923,11 @@ def update_state():
 @app.get("/<path:filename>")
 def static_files(filename: str):
     public_files = {
-        "index.html", "client-fixes.js", "manifest.json",
+        "index.html", "client-fixes.js", "desktop-client.js", "manifest.json",
         "icon-192.svg", "icon-512.svg", "approved.mp3", "rejected.mp3",
         "click.mp3", "notify.mp3",
+        "assets/vendor/tailwind.css",
+        "assets/vendor/lucide-0.468.0.min.js",
     }
     if filename == "dossier_447_gn_player.html":
         if not ACCOUNTS.get(session.get("badge")):
