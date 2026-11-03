@@ -23,27 +23,33 @@ private networks.
 - Players can join from a browser, including on phones.
 - The database and session key are stored on the host computer, separately
   from the application files.
-- Automated builds for Windows, Intel macOS, Apple Silicon macOS, and Linux
-  using GitHub Actions.
+- Local builds from the terminal, without using GitHub.
 
-## Requirements
+## Requirements for building
 
-Python does not need to be installed to run a prebuilt app. To build the app
-locally, you need:
+The commands below use the project files already on your computer: they do not
+clone the repository, download source code or build artifacts from GitHub, or
+require a GitHub account. Python 3.13 must be installed on the computer that
+runs the build. On the first build, `pip` downloads dependencies from PyPI.
 
 - Python **3.13**;
 - `pip`;
-- an Internet connection to install build dependencies;
+- an Internet connection to install dependencies from PyPI;
 - the operating system and architecture you want to build for.
 
 PyInstaller does not reliably cross-compile for a different operating system:
 build the package on the system it targets. For example, build the Windows
 package on Windows, the macOS package on macOS, and the Linux package on Linux.
 
+Python is not required to run a prebuilt app. If Python 3.13 is not already
+available, install it separately before running the build commands.
+
 ## Build locally
 
 Open a terminal in the project directory containing `DarkCanvas.spec`,
-`launcher.py`, and `requirements.txt`.
+`launcher.py`, and `requirements.txt`, then run the commands for your system.
+The `.venv` and `dist/` folders are created locally; you do not need to
+download a build artifact from GitHub.
 
 ### Windows (PowerShell)
 
@@ -111,9 +117,10 @@ Distribute the entire folder. Some Linux distributions may require system
 libraries compatible with those available on the computer that created the
 build.
 
-## Automated builds with GitHub Actions
+## Optional: automated builds with GitHub Actions
 
-The workflow in `.github/workflows/build.yml` creates four separate packages:
+If you prefer to have GitHub create the builds, the workflow in
+`.github/workflows/build.yml` creates four separate packages:
 
 | Runner operating system | Artifact |
 | --- | --- |
